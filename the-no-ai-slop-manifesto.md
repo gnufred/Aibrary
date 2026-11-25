@@ -8,9 +8,7 @@ rights: Copyright © 2026 Fred Potvin. All rights reserved in the original text 
 description: How the No AI Slop Manifesto came together, and what its authors and fellow practitioners ask of people who use AI to write and build.
 ---
 
-Copyright © 2026 Fred Potvin. All rights reserved in the original text and examples. Third-party material retains its own terms.
-
-**Contents**
+# Contents {.unnumbered .unlisted}
 
 1. [A year before the manifesto](#a-year-before-the-manifesto)
 2. [Who wrote the manifesto?](#who-wrote-the-manifesto)
@@ -20,13 +18,17 @@ Copyright © 2026 Fred Potvin. All rights reserved in the original text and exam
 6. [What happens when the team stops reading](#what-happens-when-the-team-stops-reading)
 7. [What you ask the next person to read](#what-you-ask-the-next-person-to-read)
 
+Copyright © 2026 Fred Potvin. All rights reserved in the original text and examples. Third-party material retains its own terms.
+
+This manuscript was drafted with an AI assistant using public sources through November 2026.
+
 # A year before the manifesto
 
 Late on November 12, 2026, at AI Engineer Code Summit in San Francisco, Dex Horthy described a conversation between coworkers that could take four trips through two AI assistants. One person copies an assistant’s output to a colleague. The colleague pastes it into their own assistant and sends back its response. The first person turns to their assistant again. Horthy’s example came near the end of a talk about building software with agents. A few minutes later, he gave the audience a web address and announced a manifesto he said had been made with other people at the summit.[^launch]
 
 The example is funny because each step makes sense to the person taking it. Ask the assistant for a summary. Send it to the person who can help. Ask a second assistant to find the question in the summary. Send the answer back. There may be a perfectly good question in that exchange. There may even be a good answer. Somewhere along the way, a coworker has to figure out what decision the two people are making together.
 
-Horthy had spent much of the talk on code and the systems that produce it. The manifesto would also deal with a more ordinary experience, familiar to anyone who has opened a message and wondered whether its sender had read it. A year earlier, in New York, Shawn Wang had asked a room full of engineers to take that experience seriously.[^launch][^swyx25]
+Horthy had spent much of the talk on code and the systems that produce it. The manifesto would also deal with a more ordinary experience, familiar to anyone who has opened a message and wondered whether its sender had read it. A year earlier, in New York, Shawn Wang had asked a room full of engineers to take that experience seriously.
 
 ## The organizer’s problem
 
@@ -79,7 +81,7 @@ On November 17, in an interview with Madison Kanna for MTS, Horthy described how
 
 He remembered the draft as poor. He shared it with the group anyway, he said, and told them that Claude had written it and that he had yet to read it. That detail belongs to Horthy’s recollection of a working draft shared among the people making the document. Imagine receiving it as one of them. You had spent time thinking about what engineers could do better. Now you had to read a document that was supposed to combine your answer with everyone else’s, even though the person circulating it had yet to see what had survived.[^mts]
 
-Horthy recalls sitting down with Philip Kiely and substantially editing the draft. It is the moment in the origin story when two people took responsibility for wording that would have to make sense to everyone outside the drafting group. The early private drafts and speakers’ responses are unavailable in the public record. What we have about that session is Horthy’s account and what the team eventually put before readers.[^mts][^early-gist]
+Horthy recalls sitting down with Philip Kiely and substantially editing the draft. It is the moment in the origin story when two people took responsibility for wording that would have to make sense to everyone outside the drafting group. The early private drafts and speakers’ responses are unavailable in the public record. What we have about that session is Horthy’s account and what the team eventually put before readers.
 
 There is a separate story in which Kiely describes the kind of editing he is willing to hand to a tool. While working on his own book, *Inference Engineering*, he had an AI assistant help build a glossary. He says he spent a full day editing, checking, and expanding the result. When he wanted entries alphabetized, he had the assistant write a script to do the sorting. A script gave him a repeatable operation. Deciding whether each definition accurately explained the subject still demanded that he read it.[^kiely]
 
@@ -95,7 +97,7 @@ Think about what the new commitment means for a plan. It is possible to ask an a
 
 ## Who did what
 
-The available accounts give different people clear roles. Horthy credits Wang with the approach that set him to work. Wang’s newsletter says the statement grew out of conversations at the conference and describes it as something people could use to discuss the subject where they worked. Horthy gathered speaker input, describes the drafting and editing, and presented the document. In his telling, Kiely worked on the text with him. Onstage Horthy credited collaboration with both speakers and attendees, and the published manifesto gives the group the byline.[^mts][^ainews][^launch][^declaration]
+Horthy credits Wang with the approach that set him to work. Wang’s newsletter says the statement grew out of conversations at the conference and describes it as something people could use to discuss the subject where they worked. Horthy gathered speaker input, worked on the draft with Kiely in his telling, and presented the document. Onstage he credited collaboration with both speakers and attendees, and the published manifesto gives the group the byline.[^ainews][^launch]
 
 The acknowledgments include Kiely, Wang, Tejas Kumar, Lauren Tan, Justin McCarthy, and others. The signatures on the site show public support. The individual accounts matter when the book gets more specific about what people thought. Tan, for instance, used her own summit talk to explain how her team tries to make repeat mistakes harder to commit. Where a convention can be enforced in code or checked automatically, the reviewer can spend less time catching the same violation by hand. The talk gives us her position in her own setting. The acknowledgment credits her contribution to the manifesto in general terms.[^declaration][^tan]
 
@@ -124,13 +126,13 @@ Those choices are easy to discuss with a room of sympathetic engineers. It is ha
 
 ## Is the question still a question?
 
-On October 3, 2026, Tejas Kumar posted about trying Kolibri, an open-weight German language model. He had written about things he had actually tried, including a tokenizer test. As he tells it, one of the first replies singled out that test, offered a specific-looking number, and ended with a question. A second reply picked on different numbers but gave Kumar the same impression. Both had arrived looking ready for an exchange. He wondered whether a model had supplied the interest they seemed to express.[^kumar]
+On October 3, 2026, Tejas Kumar posted about trying Kolibri, an open-weight German language model. He had tested how its tokenizer breaks text into units the model can process. As he tells it, one of the first replies singled out that test, offered a specific-looking number, and ended with a question. A second reply picked on different numbers but gave Kumar the same impression. Both had arrived looking ready for an exchange. He wondered whether a model had supplied the interest they seemed to express.
 
 He asked the first commenter if they had used AI to write the reply. The commenter, in Kumar’s telling, answered by asking whether that would invalidate the question. Kumar said it would. He had expected to be talking to another person about work he had done. He felt he was being asked to supply the human side of a conversation someone else could keep going by prompting a machine. Another commenter countered that he was using the charge of slop to avoid a substantive question. Kumar took the argument to X and found other people who had been receiving replies they doubted anyone had written out of real curiosity.[^kumar]
 
-The post itself is public. The details of the exchange here come from Kumar’s published account, including his inference about how the replies were written. What makes the exchange worth reading is the disagreement about what the commenter was asking for. For the person defending the reply, a legitimate question deserves to be answered on its merits. For Kumar, a reply is also a claim that someone wants to talk to him. The shape of the sentence alone does little to tell him whether the person will be there for the answer.[^kumar]
+For the person defending the reply, a legitimate question deserves to be answered on its merits. For Kumar, a reply is also a claim that someone wants to talk to him. The shape of the sentence alone does little to tell him whether the person will be there for the answer.
 
-This is where Kumar’s concern meets Wang’s talk and then takes a different direction. Wang invites the recipient to judge the work they receive. Is it useful in this situation? Can it be checked? Kumar asks who decided the question was worth asking and will take responsibility for pursuing it. A question can pass a check for relevance and still fail to earn a reply from somebody who feels used as a source of answers. A reader at work rarely has the option to ignore an assigned review. In a public comment thread, Kumar could decline the exchange and say why.[^swyx25][^kumar]
+Wang invites the recipient to judge the work they receive. Is it useful in this situation? Can it be checked? Kumar asks who decided the question was worth asking and will take responsibility for pursuing it. A question can be relevant and still fail to earn a reply from somebody who feels used as a source of answers. A reader at work rarely has the option to ignore an assigned review. In a public comment thread, Kumar could decline the exchange and say why.[^swyx25]
 
 ## The decisions he keeps
 
@@ -223,9 +225,9 @@ Before going on, trace a volunteer with one confirmed shift and one canceled shi
 
 ## An update prompt at the wrong moment
 
-In an October 2025 write-up, Mitchell Hashimoto describes a Ghostty update prompt interrupting an OpenAI keynote demo. The presenter was using a terminal and the prompt took focus from the window. Hashimoto set out to make Ghostty’s macOS notifications show their status inside the window, where users could act on them at a convenient moment.[^hashimoto-feature]
+In an October 2025 write-up, Mitchell Hashimoto describes a Ghostty update prompt interrupting an OpenAI keynote demo. A dialog appeared while the presenter was using the terminal. Hashimoto set out to make Ghostty’s macOS notifications show their status inside the window, where users could act on them at a convenient moment.
 
-Hashimoto began with some reading about the update software Ghostty used. He had enough of a plan to think the change was possible. He was still forming a view about how it should look, so he asked a coding agent to plan a prototype for the interface. Once he could see it, he had something concrete to evaluate. He liked enough of the direction to keep working with it, and he changed details as he went.[^hashimoto-feature]
+Hashimoto began with some reading about the update software Ghostty used. He had enough of a plan to think the change was possible. He was still forming a view about how it should look, so he asked a coding agent to plan a prototype for the interface. Once he could see it, he had something concrete to evaluate. He liked enough of the direction to keep working with it, and he changed details as he went.
 
 Later, the agent made several attempts to fix a serious flaw and got stuck. In his account, Hashimoto tried some of those suggestions while doing his own reading. Eventually he stopped asking for another fix and took over the investigation. He wanted to be able to explain the result and its behavior before shipping it. His published account includes the rounds where the work was going badly, which makes it possible to see how much judgment was still involved after an agent had produced a prototype.[^hashimoto-feature]
 
@@ -268,7 +270,7 @@ print("3 reminder checks passed.")
 
 The expected line is `3 reminder checks passed.` With the original implementation, the first check fails because the training shift is filtered out and a message is still recorded. The second check also covers the case of a raw input list with no shifts at all. The last one shows that a confirmed shift still produces exactly one message and that the canceled shift stays out of it. You have tested the decision to call `deliver`, with enough observation to tell whether the change did what you intended.
 
-There is another part of the real system a maintainer could reasonably ask about. A scheduler might record a reminder as sent whenever its function returns successfully. After this change, a call can return successfully without requesting delivery. The example does not tell you what a real scheduler records. The author can say which path was tested and ask the maintainer whether the calling code already distinguishes a skipped reminder from one that went out. That is a focused question about the surrounding system, where the maintainer’s knowledge can make a difference.
+A scheduler might record a reminder as sent whenever its function returns successfully. After this change, a call can return successfully without requesting delivery. The author can say which path was tested and ask the maintainer whether the calling code already distinguishes a skipped reminder from one that went out. That is a question about the surrounding system, where the maintainer’s knowledge can make a difference.
 
 ## What to put in the pull request
 
@@ -285,3 +287,96 @@ Ghostty sets an expectation for people approaching a project from the outside. A
 [^hashimoto-feature]: Mitchell Hashimoto, October 11, 2025, particularly his account of the demo, prototype, and failed attempts to fix a bug. [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing).
 [^ghostty-jan]: Mitchell Hashimoto’s [disclosure pull request](https://github.com/ghostty-org/ghostty/pull/8289) and [January 22 policy change](https://github.com/ghostty-org/ghostty/commit/f00de7ee4b9bbc5a0fb5f4c06755780c773a0f5e).
 [^ghostty-policy]: Ghostty project. [AI Usage Policy at the February revision](https://github.com/ghostty-org/ghostty/blob/00c33eaf72af6c9b93d9fd8d54b6f7086612a95b/AI_POLICY.md) · [April version of the contribution guide](https://github.com/ghostty-org/ghostty/blob/22f9233a0f7b85747483ce713411c67be4643d8f/CONTRIBUTING.md).
+
+# What happens when the team stops reading
+
+## Going back into the code
+
+By Horthy’s account, in July 2025 his team started reading specifications and tickets and letting coding agents handle much of the implementation for small and medium tasks. The team was trying a *lights-off software factory*. In this approach, software goes from a description of the work to implementation and checks without somebody routinely reading the resulting code. A software factory is the organized process that takes changes through those stages and into the product. The lights-off version puts more weight on the descriptions and the checks because review of the implementation happens less often or goes away entirely.[^factory-essay]
+
+Then Horthy found himself back inside a part of the application he had stopped reading. The site had gone down, he says, and the agents’ attempts to help reproduce the underlying problem hadn’t got him to a fix. He was trying to understand code the team had already accepted. In his retelling, he still thought the rate at which they had been shipping made the trade worth it after the first incident. By around November, after further incidents, the team concluded it would be easier to rewrite the affected work. His cofounder spent time rebuilding patterns by hand.[^factory-essay][^factory-talk]
+
+Horthy described the experiment in his July 2026 essay from HumanLayer and in a World’s Fair talk that year. The work the team had accepted quickly was now the material someone had to read, and they had to read it with the application failing and people waiting. Familiarity with the system had become more valuable at precisely the moment it was hardest to acquire.
+
+Tests can tell a team a great deal about behavior it has thought to check. A maintainer opening the same code six months later has a different question. They need to find where a new decision belongs and what other behavior it might affect. If several earlier changes had each solved an immediate problem by adding a new rule in a different place, a test suite could still pass. The next developer would have to trace all the rules before changing one. That is the cost Horthy wanted teams to reckon with alongside the cost of producing a working feature.[^factory-essay]
+
+## What StrongDM chose to inspect
+
+Justin McCarthy, another person thanked in the manifesto, gave a different account of a lights-off factory. In February 2026, he wrote that his StrongDM team arranged for agents to build from specifications and run scenarios, with no routine human code review in the process he described. His account presents that as a deliberate constraint on how the team works. If you expect to accept a change based on behavior, you have to specify the behavior and put the software in situations that show what it actually does. A *scenario* is one of those situations, with starting conditions and a result you can observe.[^strongdm][^declaration]
+
+Consider what a scenario for the volunteer tool could ask. Create a volunteer who cancels their only shift before reminders go out. Run the reminder job at the usual time and check whether that volunteer’s mailbox receives a message. That would give you evidence about how the scheduler, current schedule data, and delivery work together. The short test from the previous chapter checks a narrower boundary. It observes whether `send_reminder` asks its delivery function to send anything for a given input.[^strongdm-techniques]
+
+Both checks answer legitimate questions. You can add the scenario while keeping the smaller test, which will be cheaper to run when you make an ordinary change to the filter. The scenario tells you something the small test cannot establish by itself. Conversely, if the scenario finds a message in the mailbox, you may still have to investigate which part of the application put it there. You would want the code and the records of what happened to help you conduct that investigation.
+
+McCarthy’s description puts considerable trust in well-chosen scenarios and the ability to run them. Horthy’s experience puts weight on the team knowing the code it will one day have to change or repair. These accounts leave an engineering decision in your hands. For a given part of the system, what will give you enough confidence to release a change, and what will help a person act when that confidence turns out to have been misplaced?
+
+## Move the review to where it can change the work
+
+In the essay, Horthy brings human review back and moves some of it earlier. For a substantial feature he describes four kinds of decisions. First, agree on what should happen for the person using the product. Then decide how the major parts of the system will work together. Then decide how the program will express the rule, including what belongs together in the same part of the code. Finally, work in *vertical slices*, small pieces of behavior that connect the necessary parts and can be checked end to end. He gives simpler or well-understood changes a shorter path.[^factory-design]
+
+The reminder change can use that shorter path. The policy decision fits in one sentence, the code has a clear place to make it, and the test of that function is small. A more involved requirement would be to let volunteers choose when they get reminders. Now someone has to decide whether a time is stored for every volunteer or every shift, how schedule changes affect it, and what happens if the person travels. A discussion about those decisions is easier while they are still a few choices in a plan. Once they are spread across settings, the database, and the scheduler, even asking a good question about the design requires more reading.
+
+For that larger change, one vertical slice could save a single reminder time and deliver one message at that time for a confirmed shift. It includes enough of the interface, storage, scheduling, and delivery to show the requested behavior. A reviewer can walk through the result, inspect the parts that determine when the message actually goes out, and help decide what happens in the next case. A small change earns its size by being understandable and useful as a piece of the work.
+
+By the November 2026 summit, Horthy was speaking from Factory and explaining how teams can retain their judgment while using faster tools. The manifesto he announced left room for kinds of review other than a close reading of every line. A human might examine the plan, the design, or the behavior that came out. What they inspect ought to reflect the stakes. In the volunteer case you might spend very little time inspecting the code that builds the subject line. You would want a person to understand what happens when a mailing is queued twice, or when a last-minute change could send a volunteer to the wrong place.[^launch][^declaration]
+
+In a 2026 study of code completion at Meta, Audris Mockus and colleagues found shorter observed review times and lower rates of production incidents for changes that included AI-generated code. The authors qualify that observation in the abstract. In their words, “both associations are confounded by AI code appearing in less central contexts.” The work being compared was different in ways that already matter to review. The study concerns suggestions an engineer accepts while writing code in one environment. When you look at your own review times, ask what kind of change was sent, which part of the system it touched, and how much work the reviewer had to do to understand it.[^mockus]
+
+## Decide what should survive the handoff
+
+Think of the real reminder job you would have to manage. The test from chapter 5 can keep one decision stable. If a refactor starts sending empty reminders again, the check will fail. That frees a reviewer to consider a new issue, such as which volunteer time zone applies. It also preserves a little of the original reasoning for the next person to touch the code. They can see a specific example of what the earlier decision meant.
+
+When the same mistake turns up a second time, ask the people who caught it where a check would have helped. If the program can give a definite answer from a test, make that test convenient to run. If the issue is a decision about what the product should do, record the decision where the next author will encounter it before making a change. Put the attention where it would have saved a person from having to reconstruct the problem later.
+
+After the manifesto went online, readers began arguing about what evidence a developer ought to share with a reviewer in the first place. One idea would have given them something new to read.
+
+[^factory-essay]: Dex Horthy, *Why Software Factories Fail*, July 2026 revision. The experiment and incidents are in his first-person account. [Pinned essay, “We tried this”](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/4aa70bcde40332f6e7b8fcc7d6ed6b6eefaab64b/wsff.md#we-tried-this).
+[^factory-talk]: Dex Horthy, AI Engineer World’s Fair 2026, around 7:25 for the account of returning to unread code. [Recording and reading edition](https://ai.engineer/talks/Ib5GBkD555M-why-software-factories-fail).
+[^strongdm]: Justin McCarthy, February 6, 2026. [Software Factories And The Agentic Moment](https://factory.strongdm.ai/).
+[^strongdm-techniques]: StrongDM’s techniques include scenarios for judging the behavior of the resulting software. The volunteer example is original. [StrongDM Software Factory techniques](https://factory.strongdm.ai/techniques).
+[^factory-design]: Horthy discusses early planning and review in the latter part of the essay and at approximately 14:48 and 15:59 in the talk. [Pinned essay, “Turning the lights back on”](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/4aa70bcde40332f6e7b8fcc7d6ed6b6eefaab64b/wsff.md#turning-the-lights-back-on) · [World’s Fair talk](https://ai.engineer/talks/Ib5GBkD555M-why-software-factories-fail).
+[^mockus]: Audris Mockus, Peter C. Rigby, Don Stewart, Chandra Maddila, and Nachiappan Nagappan. *A Preliminary Analysis of the Impact of AI Assisted/Generated Code on Quality, Centrality and Review Time at Scale*. ESEM 2026, LIPIcs 394, article 93, DOI `10.4230/LIPIcs.ESEM.2026.93`. The unmodified excerpt is from the abstract. © Audris Mockus, Peter C. Rigby, Don Stewart, Chandra Maddila, and Nachiappan Nagappan. Licensed under Creative Commons Attribution 4.0 International. [Version of record](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.93) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+# What you ask the next person to read
+
+## The argument moves into a review
+
+On November 13, 2026, someone submitted the manifesto to Hacker News. A commenter using the name `courtcircuits` recognized an argument they had been having with coworkers about enormous AI-generated pull requests. What if the submitter included the prompt that started the work? Whoever had to review the change would have a better idea what problem the other person was trying to solve.[^hn]
+
+Another commenter, `grey-area`, thought the answer was to split up large changes. Smaller changes are easier to inspect and, when things go wrong, easier to narrow down or roll back. A third, `photios`, described using specifications to break up a large change at work into parts they could review and accept. Further down the thread someone asked where you would draw the line in a workflow with several prompts, tests, and restarts. Another reader wondered who would read a conversation history that could be as large as the change it was supposed to explain.[^hn]
+
+The proposal to include a prompt is attractive when it gives the reader information that they need and otherwise could not get. A short instruction might show where an odd requirement came from. A prompt from the beginning of a long session may be less helpful after the person running it has made decisions that supersede the instruction. The recipient needs the rule that the change actually implements and the reasons to believe it works. If the prompt gives them that, keep it. If the relevant decision appears in a later comment halfway through the session, bring the decision forward where the person can see it.
+
+The same is true of the proposal to make a change smaller. Splitting a new reminder feature into one change for the settings screen and another for everything behind it may give both changes fewer lines. If the first requires the second before anyone can check what the setting actually does, the reviewer has to hold both in mind. A small end-to-end change can make the experience visible sooner. A brief note explaining the division tells the reviewer what they can verify today and what will arrive in the next change.
+
+The comments give Wang’s reason for wanting a manifesto some practical force. His account of the launch says the document grew out of discussions at the summit and that it was meant to help people have those discussions at work. A day after Horthy’s announcement, these readers were already arguing over what a coworker should put in a review. They cared about the same burden and proposed different ways to reduce it.[^ainews][^hn]
+
+## Try it on the next handoff
+
+Pick one piece of work you regularly pass to somebody else. A pull request, a research note, a decision memo, or a message about a support problem is enough. Think of a particular recipient and finish this sentence in your own words. After reading this, I want them to be able to ___. The blank should name a decision or action they can plausibly take. If you are looking for help deciding, name the uncertainty they have the knowledge to settle.
+
+Build the handoff around that action. Give the person the fact or observation that prompted the work, the smallest amount of evidence they need to check it, and any information about what remains uncertain. In a code review, point at the change that determines the outcome and at the test that lets them see it. In a written update, give the relevant date, source, and consequence in the same place. A coworker who wants the raw data or the full trace should be able to find it from there.
+
+For the reminders, the recipient’s task was to confirm that the send decision happens in the right place and to say how the scheduler counts a skip. The author supplied a two-line change and three small observations. The recipient could focus on a boundary they knew. If the question were about whether the email provider delivered the message at the right minute, the artifact they needed would be different. A direct link to the preview or to an end-to-end check would earn its place in the note.
+
+You can find out whether the handoff helped. For the next few comparable pieces of work, write down which clarifications the recipient had to request before they could act. Ask whether there was anything they had to reconstruct that you already knew. If the same question keeps coming back, move the answer to a predictable place or make a check that gathers it automatically. Keep an eye on total effort. Spending an extra two minutes on a useful note may free ten minutes for a coworker. Preparing an elaborate template nobody consults consumes time in a new place.
+
+## Back to the first draft
+
+The story Horthy told Madison Kanna could have stopped at the first draft. The question had gone out to busy people, their answers were in, and a model had already produced a document that looked like a manifesto. Horthy’s account goes on to describe the editing. The public record shows more revision on either side of the stage announcement.[^mts][^summit-gist]
+
+It is worth remembering the modest task the editors had in front of them. They had other people’s ideas, a draft of uncertain quality, and an audience that would have to decide whether this was worth discussing. They spent time on it before passing it along. You can do the same thing the next time a draft looks ready to send. Read it as the person who has to make sense of it. Then make the decision you would have wanted its author to make.
+
+## Reading guide
+
+The five works recommended by the manifesto each give you a different place to start.
+
+- **Shawn Wang on curation and incentives.** Watch the New York talk through the closing call-and-response. Listen for the kinds of pressure that would make someone lower a standard they already know how to defend. [No More Slop](https://www.youtube.com/watch?v=IoiHI7p12Ao)
+- **Tejas Kumar on what a reply promises.** Read the opening exchange alongside his description of using AI in his own work. The two parts put the reader’s expectations and the writer’s choices in the same story. [Please Stop the Slop](https://tej.as/blog/please-stop-the-slop)
+- **Jake Nations on designing before implementing.** Follow the progression from understanding the problem to planning a change. See where he asks the developer to check what the agent learned. [Vibe Coding Our Way to Disaster](https://www.arthropod.software/p/vibe-coding-our-way-to-disaster)
+- **Ghostty on the conditions of contribution.** Read what the project asks contributors to be able to explain. The linked revision is the policy discussed in this book. Consult the project’s contribution documents if you are preparing your own submission. [Ghostty AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/00c33eaf72af6c9b93d9fd8d54b6f7086612a95b/AI_POLICY.md)
+- **Dex Horthy on the cost of returning to unread code.** Read the account of the experiment and the later sections on giving people earlier decisions to review. The distance between the two parts gives the essay its practical argument. [Why Software Factories Fail](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/4aa70bcde40332f6e7b8fcc7d6ed6b6eefaab64b/wsff.md)
+
+For the declaration itself, go to the project’s site. The reading links, acknowledgments, and signatures are kept with the public version there. [No AI Slop: A Manifesto](https://www.slopmanifesto.com/)
+
+[^hn]: The thread was submitted on November 13, 2026. The examples come from the exchange beneath `courtcircuits`’s proposal. [Launch discussion](https://news.ycombinator.com/item?id=50488769) · [Prompt proposal and subthread](https://news.ycombinator.com/item?id=50488829) · [Reply about smaller pull requests](https://news.ycombinator.com/item?id=50489280).
