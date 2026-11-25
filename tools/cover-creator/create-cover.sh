@@ -46,7 +46,9 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
     cd -- "$work_dir"
     # Keep user text and paths outside FFmpeg's filter syntax.
     ln -s -- "$tool_dir/fonts" fonts
-    printf '%s' "$author" > author.txt
+    # Keep the author on one line above the repository URL.
+    author_line=${author//$'\r\n'/$'\n'}
+    printf '%s' "${author_line//[$'\r\n']/ }" > author.txt
 
     # The padded background forms both the title panel and the footer.
     artwork_y=896
@@ -79,7 +81,8 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
         printf 'The title and subtitle exceed the title panel. Lower COVER_TITLE_SIZE or use fewer lines.\n' >&2
         exit 2
     fi
-    filters+=',drawtext=fontfile=fonts/Inter-SemiBold.ttf:textfile=author.txt:expansion=none:fontsize=64:fontcolor=0xF5F3EE:x=112:y=2448-th/2'
+    filters+=',drawtext=fontfile=fonts/Inter-SemiBold.ttf:textfile=author.txt:expansion=none:fontsize=64:fontcolor=0xF5F3EE:x=112:y=2420:y_align=baseline'
+    filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=github.com/gnufred/Aibrary:fontsize=48:fontcolor=0xA9C7D0:x=112:y=2484:y_align=baseline'
 
     ffmpeg -hide_banner -loglevel error -nostdin -i "$artwork" -i "$tool_dir/aibrary-bookmark.svg" \
         -filter_complex "[0:v:0]$filters[cover];[cover][1:v:0]overlay=112:84:format=rgb,split[jpeg][web];[web]scale=800:1280[webp]" \

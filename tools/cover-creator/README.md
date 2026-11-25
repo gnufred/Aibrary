@@ -24,6 +24,8 @@ Use near-square illustration source art. FFmpeg scales it to fill the 1600 × 14
 
 Title baselines are spaced at 1.1 times the title size. The subtitle follows the final title line. Use explicit line breaks and inspect the result at thumbnail size. For a three-line title with a two-line subtitle, try `COVER_TITLE_SIZE=128`. The default is 160 and the accepted range is 104–160. If the text block is too tall for the panel, lower the title size or use fewer lines. Subtitle line breaks also use literal newlines, and line fitting is manual.
 
+The footer places `github.com/gnufred/Aibrary` in 48 px IBM Plex Mono below the single-line author credit. Both use the 112-pixel left margin, and the bottom 64 pixels remain clear.
+
 ## Fonts
 
 The `Aibrary` wordmark uses IBM Plex Mono SemiBold. The unmodified TTF comes from the [Google Fonts distribution of IBM Plex Mono](https://github.com/google/fonts/tree/main/ofl/ibmplexmono). Its copyright notice and SIL Open Font License 1.1 are in [fonts/IBM-Plex-Mono-OFL.txt](fonts/IBM-Plex-Mono-OFL.txt).
