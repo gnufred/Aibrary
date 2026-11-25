@@ -4,6 +4,8 @@
 
 <img src="cover/cover.webp" alt="Cover of The No AI Slop Manifesto by Fred Potvin" width="240">
 
+[Download the EPUB](the-no-ai-slop-manifesto.epub)
+
 [Cover files and rendering instructions](cover/README.md)
 
 Continue editing the [reviewed manuscript](04-review-book/the-no-ai-slop-manifesto.md). The draft preserves the complete manuscript before editorial review.
@@ -15,4 +17,4 @@ Continue editing the [reviewed manuscript](04-review-book/the-no-ai-slop-manifes
 | `aibrary-03-draft-book` | [Complete pre-review draft](03-draft-book/the-no-ai-slop-manifesto.md) | Opening chapters `1900859`, middle chapters `327e93c`, complete draft `b8b0832` |
 | `aibrary-04-review-book` | [Reviewed manuscript](04-review-book/the-no-ai-slop-manifesto.md), [editorial review and diff](04-review-book/review-diff.md) | Accepted editorial changes `82d37fc` |
 
-The draft EPUB was removed in `b263037` to make room for editorial review. The reviewed Markdown is the source for the next export.
+The [shared EPUB creator](../../tools/epub-creator/README.md) builds the ebook from the reviewed manuscript and the JPEG cover.
