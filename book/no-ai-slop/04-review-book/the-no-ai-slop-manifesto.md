@@ -4,7 +4,13 @@ subtitle: Who Owns the Work?
 author: Fred Potvin
 lang: en
 date: 2026-11-25
-rights: Copyright © 2026 Fred Potvin. All rights reserved in the original text and examples. Third-party material retains its own terms.
+rights: >-
+  This book is shared free of charge. Original contributions cleared for release
+  under the Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International
+  license (https://creativecommons.org/licenses/by-nc-sa/4.0/) may be shared and
+  adapted for noncommercial purposes under that license. Third-party material
+  remains subject to its own terms. See the book’s credits and references for
+  attribution, licenses, and permissions where applicable.
 description: How the No AI Slop Manifesto came together, and what its authors and fellow practitioners ask of people who use AI to write and build.
 ---
 
@@ -18,7 +24,9 @@ description: How the No AI Slop Manifesto came together, and what its authors an
 6. [What happens when the team stops reading](#what-happens-when-the-team-stops-reading)
 7. [What you ask the next person to read](#what-you-ask-the-next-person-to-read)
 
-Copyright © 2026 Fred Potvin. All rights reserved in the original text and examples. Third-party material retains its own terms.
+This book is shared free of charge. Original contributions cleared for release under the [Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/) may be shared and adapted for noncommercial purposes under that license.
+
+Third-party material remains subject to its own terms. See the book’s credits and references for attribution, licenses, and permissions where applicable.
 
 This manuscript was drafted with an AI assistant using public sources through November 2026.
 
