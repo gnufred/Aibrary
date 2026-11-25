@@ -11,16 +11,16 @@ Run this from the repository root to write the EPUB beside the manuscript.
 
 ```bash
 tools/epub-creator/create-epub.sh \
-  books/2026-11-25-no-ai-slop/04-review-book/the-no-ai-slop-manifesto.md
+  books/2026-11-25-the-work-we-pass-on/04-review-book/the-work-we-pass-on.md
 ```
 
 Use `-o` to pick a destination in an existing directory and `--cover` to embed a local cover image. Both paths are relative to the directory where you run the command. A successful build replaces an existing EPUB at the destination.
 
 ```bash
 tools/epub-creator/create-epub.sh \
-  -o /tmp/the-no-ai-slop-manifesto.epub \
-  --cover books/2026-11-25-no-ai-slop/cover/cover.jpg \
-  books/2026-11-25-no-ai-slop/04-review-book/the-no-ai-slop-manifesto.md
+  -o /tmp/the-work-we-pass-on.epub \
+  --cover books/2026-11-25-the-work-we-pass-on/cover/cover.jpg \
+  books/2026-11-25-the-work-we-pass-on/04-review-book/the-work-we-pass-on.md
 ```
 
 ## Prepare the Markdown

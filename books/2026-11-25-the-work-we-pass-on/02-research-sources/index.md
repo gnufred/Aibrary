@@ -1,4 +1,4 @@
-# Source research for *The No AI Slop Manifesto*
+# Source research for *The Work We Pass On*
 
 Research checked 25 November 2026. The chapter numbers follow the [book plan](../01-plan-book/plan.md).
 

@@ -7,11 +7,11 @@ Run from the Aibrary repository root to regenerate both covers with the [shared 
 ```bash
 render_dir=$(mktemp -d)
 tools/cover-creator/create-cover.sh \
-  books/2026-11-25-no-ai-slop/cover/artwork.png \
+  books/2026-11-25-the-work-we-pass-on/cover/artwork.png \
   "$render_dir/cover" \
-  $'The No AI Slop\nManifesto' \
+  $'The Work\nWe Pass On' \
   'Fred Potvin' \
-  'Who Owns the Work?'
+  'Lessons from the No AI Slop Manifesto'
 ```
 
 The source illustration was generated with OpenAI's built-in image generation tool using this prompt.

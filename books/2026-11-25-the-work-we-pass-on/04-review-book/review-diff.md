@@ -1,12 +1,12 @@
 # Editorial review and diff
 
-The GPT-6.2 Sol Max reviewer read the [pre-review draft](../03-draft-book/the-no-ai-slop-manifesto.md) in isolation, then checked the manuscript against the [plan](../01-plan-book/plan.md) and [source index](../02-research-sources/index.md). The review covered all seven chapters.
+The GPT-6.2 Sol Max reviewer read the [pre-review draft](../03-draft-book/the-work-we-pass-on.md) in isolation, then checked the manuscript against the [plan](../01-plan-book/plan.md) and [source index](../02-research-sources/index.md). The review covered all seven chapters.
 
 The edits tightened the opening and contributor attributions. They also separated what a composed reminder preview shows, what the Python check establishes about delivery requests, and what would require observing the scheduler or the receiving inbox.
 
 Python 3.12.14 reproduced the original failure. The patch applied cleanly, the revised example passed all three checks, and confirmed shifts kept their input order. In the rendered Markdown, all seven chapter links opened at their matching headings in manuscript order. All local anchors resolved.
 
-The diff compares the pre-review revision `b263037` with the accepted review in `82d37fc`. File paths in the patch are the paths at those revisions. The [reviewed manuscript](the-no-ai-slop-manifesto.md) is the editable copy.
+The diff compares the pre-review revision `b263037` with the accepted review in `82d37fc`. File paths in the patch are the paths at those revisions. The [reviewed manuscript](the-work-we-pass-on.md) is the editable copy.
 
 ~~~~diff
 diff --git a/the-no-ai-slop-manifesto.md b/the-no-ai-slop-manifesto.md

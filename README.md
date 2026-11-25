@@ -15,7 +15,7 @@ I first turned years of roleplaying game notes and manuscript drafts into a full
 
 ## Books
 
-- [The No AI Slop Manifesto](books/2026-11-25-no-ai-slop/README.md)
+- [The Work We Pass On](books/2026-11-25-the-work-we-pass-on/README.md)
 
 ## Getting started
 

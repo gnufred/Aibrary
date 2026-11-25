@@ -1,6 +1,6 @@
 ---
-title: The No AI Slop Manifesto
-subtitle: Who Owns the Work?
+title: The Work We Pass On
+subtitle: Lessons from the No AI Slop Manifesto
 author: Fred Potvin
 lang: en
 date: 2026-11-25
@@ -14,7 +14,7 @@ rights: >-
   If you share an adaptation, follow the license’s ShareAlike terms.
   [Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ai-disclosure: >-
-  *The No AI Slop Manifesto* was drafted with an AI assistant using public sources
+  *The Work We Pass On* was drafted with an AI assistant using public sources
   through November 2026. The cover illustration was generated with OpenAI’s image
   generation tool.
 description: How the No AI Slop Manifesto came together, and what its authors and fellow practitioners ask of people who use AI to write and build.
