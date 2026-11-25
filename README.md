@@ -7,6 +7,12 @@ SPDX-License-Identifier: GPL-3.0-only
 
 Aibrary is a workflow for agents to write, review, and render tutorial books. Each book has an editable Markdown manuscript and an EPUB built from the same source. Both formats have a clickable chapter table of contents.
 
+## Why I started Aibrary
+
+I love books, and I spent my whole summer trying to figure out how to get AI to write the books I actually wanted to read, the ones that didn’t exist yet.
+
+I first turned years of roleplaying game notes and manuscript drafts into a full fantasy saga. Now I want to write books that help engineers navigate the age of AI.
+
 ## Books
 
 - [The No AI Slop Manifesto](books/2026-11-25-no-ai-slop/README.md)
