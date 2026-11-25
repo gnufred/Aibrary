@@ -24,6 +24,8 @@ For a new book, use the skills in this order.
 
 For an existing manuscript, start with the skill that matches the work.
 
+To create or regenerate a cover, use [$aibrary-05-create-cover](.agents/skills/aibrary-05-create-cover/SKILL.md). It uses the [shared cover creator](tools/cover-creator/README.md) to render the JPEG and WebP from your artwork and book details.
+
 During a tutorial review, the agent makes and verifies edits directly in the book and records meaningful progress in Git. The finished work includes the Markdown and EPUB, a diff you can inspect, and a summary of the checks that ran.
 
 ## License
