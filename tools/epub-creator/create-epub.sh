@@ -69,12 +69,16 @@ work_dir=$(mktemp -d -- "$output_dir/.aibrary-epub.XXXXXX")
 trap 'rm -rf -- "$work_dir"' EXIT
 
 # Pandoc writes reader navigation without --toc, which would add it to the reading order.
+# The empty rights variable suppresses the title-page notice and preserves EPUB metadata.
 pandoc \
     --from=markdown+gfm_auto_identifiers+rebase_relative_paths \
     --to=epub3 \
     --split-level=1 \
     --toc-depth=1 \
     --syntax-highlighting=none \
+    --lua-filter="$tool_dir/copyright.lua" \
+    --metadata="aibrary-copyright-file=$tool_dir/../../books/COPYRIGHT.md" \
+    --variable=rights: \
     --css="$tool_dir/book.css" \
     --fail-if-warnings \
     --output="$work_dir/book.epub" \

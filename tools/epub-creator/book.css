@@ -24,13 +24,6 @@ p {
   font-style: italic;
 }
 
-.titlepage .rights {
-  margin-top: 2em;
-  font-size: 0.85em;
-  font-style: normal;
-  text-align: left;
-}
-
 .footnote-ref, .footnote-separator {
   font-size: 0.75em;
   line-height: 0;

@@ -4,13 +4,19 @@ subtitle: Who Owns the Work?
 author: Fred Potvin
 lang: en
 date: 2026-11-25
+copyright: '**© 2026 Fred Potvin**'
+publisher-credit: 'Self-published by **EI Frédéric Potvin**, France · SIREN **132 640 574**'
 rights: >-
-  This book is shared free of charge. Original contributions cleared for release
-  under the Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International
-  license (https://creativecommons.org/licenses/by-nc-sa/4.0/) may be shared and
-  adapted for noncommercial purposes under that license. Third-party material
-  remains subject to its own terms. See the book’s credits and references for
-  attribution, licenses, and permissions where applicable.
+  This book is available free of charge. You may share and adapt its original
+  contributions for noncommercial purposes under the Creative Commons license
+  below, to the extent that Fred Potvin holds the rights to grant that permission.
+  Please credit Fred Potvin, link to the license, and indicate any changes you make.
+  If you share an adaptation, follow the license’s ShareAlike terms.
+  [Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ai-disclosure: >-
+  *The No AI Slop Manifesto* was drafted with an AI assistant using public sources
+  through November 2026. The cover illustration was generated with OpenAI’s image
+  generation tool.
 description: How the No AI Slop Manifesto came together, and what its authors and fellow practitioners ask of people who use AI to write and build.
 ---
 
@@ -23,12 +29,6 @@ description: How the No AI Slop Manifesto came together, and what its authors an
 5. [The person who has to review it](#the-person-who-has-to-review-it)
 6. [What happens when the team stops reading](#what-happens-when-the-team-stops-reading)
 7. [What you ask the next person to read](#what-you-ask-the-next-person-to-read)
-
-This book is shared free of charge. Original contributions cleared for release under the [Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/) may be shared and adapted for noncommercial purposes under that license.
-
-Third-party material remains subject to its own terms. See the book’s credits and references for attribution, licenses, and permissions where applicable.
-
-This manuscript was drafted with an AI assistant using public sources through November 2026.
 
 # A year before the manifesto
 
