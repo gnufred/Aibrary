@@ -24,7 +24,6 @@ function Pandoc(doc)
     if block.t == 'Header' and block.identifier == 'copyright-and-licensing' then
       block.classes:extend({'unnumbered', 'unlisted'})
       append_metadata(front_matter, meta.copyright)
-      append_metadata(front_matter, meta['publisher-credit'])
     elseif block.t == 'Header' and block.identifier == 'license-and-reuse' then
       append_metadata(front_matter, meta.rights)
     end

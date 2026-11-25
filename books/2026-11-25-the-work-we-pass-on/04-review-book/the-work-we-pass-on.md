@@ -5,7 +5,6 @@ author: Fred Potvin
 lang: en
 date: 2026-11-25
 copyright: '**© 2026 Fred Potvin**'
-publisher-credit: 'Self-published by **EI Frédéric Potvin**, France · SIREN **132 640 574**'
 rights: >-
   This book is available free of charge. You may share and adapt its original
   contributions for noncommercial purposes under the Creative Commons license

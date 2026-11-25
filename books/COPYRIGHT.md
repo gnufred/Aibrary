@@ -1,5 +1,7 @@
 # Copyright and Licensing
 
+Self-published by **EI Frédéric Potvin**, France · SIREN **132 640 574**
+
 ## License and reuse
 
 Third-party material remains subject to its own terms. The footnote attached to each excerpt gives the source, attribution, and any applicable license or permission.

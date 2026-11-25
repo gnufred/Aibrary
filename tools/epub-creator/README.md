@@ -25,11 +25,11 @@ tools/epub-creator/create-epub.sh \
 
 ## Prepare the Markdown
 
-- Put `title`, `author`, `lang`, `copyright`, and `rights` in the first file’s YAML front matter. Use `rights` for the book’s license or reuse terms. Add `publisher-credit` and `ai-disclosure` when applicable, and keep any third-party notices specific to the book in the manuscript.
+- Put `title`, `author`, `lang`, `copyright`, and `rights` in the first file’s YAML front matter. Use `rights` for the book’s license or reuse terms. Add `ai-disclosure` when applicable, and keep any third-party notices specific to the book in the manuscript.
 - Use `#` headings for chapters and `##` or deeper for sections. Each chapter appears in the reader’s navigation. Mark front matter such as a handwritten Contents heading with `{.unnumbered .unlisted}` to keep it out of the chapter menu.
 - Link between chapters with `#heading-id` fragments, including when the chapters come from separate Markdown files. For a stable target, give the heading an explicit ID such as `# Getting started {#getting-started}`. Image paths are relative to the Markdown file that references them.
 
-The builder combines the book’s metadata with the [shared copyright text](../../books/COPYRIGHT.md) and places the resulting page before the visible contents. The copyright page stays outside the reader’s chapter list.
+The builder combines the book’s metadata with the publisher credit and boilerplate in the [shared copyright text](../../books/COPYRIGHT.md). It places the resulting page before the visible contents and keeps it outside the reader’s chapter list.
 
 ```bash
 tools/epub-creator/create-epub.sh -o my-book.epub intro.md chapters/first.md chapters/second.md
