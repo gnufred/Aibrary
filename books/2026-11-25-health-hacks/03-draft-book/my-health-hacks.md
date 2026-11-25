@@ -60,7 +60,7 @@ There’s an interesting issue of timing in the research. Melis Yilmaz Balban an
 
 For one month I followed Wim Hof’s guided breathing exercises three times a day. I linked to a slower recording and a regular one in my article. These are much more involved sessions, with periods of holding the breath. The creator warns that fainting is possible and directs people to practice seated or lying down, away from water and driving. That matters in a book where cold showers also make an appearance. I treat the two activities separately. [Slower recording and safety guidance](https://www.youtube.com/watch?v=0BNejY1e9ik) · [Regular recording](https://www.youtube.com/watch?v=tybOi4hjZFQ)
 
-During that month I reported a 15% increase in my running speed. I was both the person trying the breathing and the person doing the running. A month in which both things happened gives me an observation to share. It leaves open how much of the difference belonged to the training itself. It also tells you something about the commitment involved. Three guided sessions a day occupied a very different place in my life from a sigh before a meeting.
+I measured my running speed with a GPS sports watch. Over that month I saw a 15% increase. The watch could tell me how much ground I covered and how long it took. It couldn’t tell me how much of the improvement came from breathing exercises and how much came from going out and running. Three guided sessions a day also asked something quite different of me from a sigh before a meeting. I like knowing which kind of commitment I’m considering before I pick up a new habit.
 
 If you’re drawn to breathing because you want a moment of quiet, think about when you want that quiet. There’s a world of difference between having a free minute before the call starts and remembering, three hours later, that the call was difficult. The first is a moment you can use.
 
@@ -87,3 +87,81 @@ Andrew Huberman changed my mind about alcohol. Early in his episode he talked ab
 The arithmetic is straightforward. One drink on each of seven days and seven drinks in one sitting add up to the same weekly total. The pattern of drinking also affects the body. The research Huberman was discussing looked at associations between alcohol consumption and brain measurements in a large group of people. It didn’t put those two drinking schedules to a head-to-head test. What shook me was discovering how much the unit I counted in changed my view of an ordinary habit. [UK Biobank study](https://www.nature.com/articles/s41467-022-28735-5) · [WHO on amount and drinking pattern](https://www.who.int/news-room/fact-sheets/detail/alcohol)
 
 You might use that question about the end of work even if you never drink beer. What tells you the working day is over, and how do you actually want to spend the next few minutes? Wanting a bit of relief after work was a perfectly understandable thing about my beer. It was also worth looking at what I’d chosen to give me that relief.
+
+# Five push-ups and a longer run
+
+## A set with an end in sight
+
+Five push-ups, five squats, five more push-ups. That was my starting set. I changed my hand position for the second set of push-ups. Then I was done until the next time. I did that little sequence three times a day, and over time I could feel the difference in my upper-body strength.
+
+What I like about the number five is that I know where the end is. *Get stronger* could occupy the rest of my life. Five squats occupy a space I can see from here. That makes it possible to ask an ordinary question like whether there’s room to do them while something else is happening. Someone who spends the day on their feet might look forward to a different kind of break altogether.
+
+I was interested when Andy Galpin talked about fitting brief bouts of movement into a day. There’s even a study of people doing short climbs in a three-flight stairwell. Sedentary young adults in the exercise group did those climbs at separate times of day, three days a week for six weeks, and improved their cardiorespiratory fitness. I like the stairwell in that study. It makes the idea concrete. Someone can decide the stairs are an appealing opportunity in their own building. Someone else can decide they’d enjoy a walk outside much more. [Galpin on brief bouts of exercise](https://www.youtube.com/watch?v=oNkDA2F7CjM&t=530s) · [Jenkins and colleagues’ stair-climbing study](https://pubmed.ncbi.nlm.nih.gov/30649897/)
+
+## Four kilometers and twelve
+
+I remember two runs in particular for the amount of ground I could cover. Early on, four kilometers took me 45 minutes. Two years later, I could run twelve in an hour. *Pace* is the time it takes to cover a unit of distance. Divide 45 minutes by four and you get eleven minutes and fifteen seconds per kilometer. Divide an hour by twelve and you get five minutes per kilometer. Along with going faster, I could be out running for a whole hour. That meant a great deal to someone who remembered how he’d felt when his second child was on the way.
+
+There’s room to care about a much smaller distance. Suppose what you miss about going into an office is the bit of walking you used to do on the way there. You might decide to take a short walk before opening the laptop at home. You can tell whether the walk gives you something you missed about the commute without ever looking at a pace reading. A GPS watch answered my question because I was interested in running speed. Your front door might be the only equipment your question requires.
+
+Exercise also changed the questions I asked about water. Drinking a glass after waking was easy to remember. Working out how much water I’d lost on a run was another matter. Galpin gives an example of an athlete who drinks during training and still finishes lighter than when they started. The finishing weight already includes that drink. I got the subtraction wrong in my original article. Subtracting the drink again would underestimate how much weight was still missing. The weather, the length of the run, and how soon you need to recover all matter to a sports-hydration calculation. I’d leave it out of a perfectly good plan to walk round the block. [Galpin’s worked example](https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness?timestamp=3328) · [Athletic trainers’ position statement on fluid replacement](https://pmc.ncbi.nlm.nih.gov/articles/PMC5634236/)
+
+Back pain was one reason the subject of movement mattered to me in the first place. I included an ATHLEAN-X video about a low back that seizes up because it showed a particular movement you could actually see. I was too quick in the article to say what it could do for everybody. There are different reasons a person’s back hurts. Someone whose pain keeps them from an activity they enjoy has a specific question to take to a clinician who can assess them. [The demonstration I linked](https://www.youtube.com/watch?v=DWmGArQBtFI) · [French clinical guidance on low-back pain](https://www.has-sante.fr/jcms/c_2961499/fr/lombalgie-commune)
+
+## Outdoors, and the cold shower
+
+Scott Carney went out and tried the things he was writing about in *What Doesn’t Kill Us*. That appealed to me. I took from his book the desire to train outdoors in changing conditions and give cold showers a try. I’d encourage anyone who enjoys the outdoors to give that preference some weight when choosing where they move. Wanting to go back outside counts for something. [Scott Carney on *What Doesn’t Kill Us*](https://www.scottcarney.com/what-doesnt-kill-us/)
+
+Cold showers earned a spot alongside the push-ups in my account of small things I was pleased to have done. What could I reasonably tell somebody else to expect from one? A Dutch trial assigned just over three thousand adults to finish their showers with cold water or continue their usual showers. Over the follow-up, the cold-shower groups reported less time off work sick. The authors also asked how many days people had actually felt ill. In their words, “For illness days there was no significant group effect.”[^shower]
+
+That second question changes the story quite a bit. You can feel ill on a Saturday. You can also show up at work feeling ill. A count of days off would miss both. I felt much better during the period in which I changed my habits. The study gives me a reason to be precise when I tell you what anyone else has measured.
+
+[^shower]: © 2016 Geert A. Buijze, Inger N. Sierevelt, Bas C. J. M. van der Heijden, Marcel G. Dijkgraaf, and Monique H. W. Frings-Dresen. *The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial*, PLOS ONE 11(9), e0161749. One sentence from the abstract’s Results, reproduced unchanged under Creative Commons Attribution 4.0 International. [Published article](https://doi.org/10.1371/journal.pone.0161749) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+# Why I kept walking into the kitchen
+
+## What Mondays showed me
+
+I work from home. On Mondays, I kept finding myself in the kitchen. This was peculiar because I’d already decided to fast that day. I knew what day it was. I’d made the same decision the week before. And yet there I was again, especially when something at work felt difficult.
+
+It took me nearly two years to find a fasting schedule I could sustain. I read books, watched videos, and tried different approaches. Eventually I settled on one 36-hour fast a week. A Thomas DeLauer video on fasting frequency reinforced that choice for me. What turned out to be most interesting about Mondays had very little to do with the length of the fast. I’d caught myself doing something I usually had no reason to question. On an ordinary afternoon there would have been a perfectly plausible explanation for going into the kitchen. On Monday I had to ask what I’d come for. Sometimes I wanted relief from what I’d just been doing. [DeLauer on fasting frequency](https://www.youtube.com/watch?v=A1tyhN1NCdA&t=641s)
+
+You can investigate that kitchen trip on a day when you eat exactly as you normally would. Once, when you find yourself there, consider what happened just before you got up. Maybe lunch was three hours ago and you’re hungry. Maybe the build finished and getting a snack is a pleasant way to mark a break. Maybe a message landed badly and you needed to get out of the chair. You can still have the snack. You’ve learned something if you can identify what else you wanted from the trip.
+
+## An afternoon swap
+
+The advice I found on food was overwhelming. I watched ATHLEAN-X on protein and body composition and Jeremy Ethier on choosing a diet and paying for the meals. The question I wound up asking was small enough to answer in a grocery store. What would I actually like to eat in the afternoon? I’d been having yogurt and honey. I swapped it for a sandwich with egg and cheese. At breakfast I switched from yogurt and chestnut cereal to oatmeal with powdered hemp and a smoothie. [ATHLEAN-X on protein](https://www.youtube.com/watch?v=Nv-o3DHphYU) · [Ethier on meal costs](https://www.youtube.com/watch?v=PXub4lr-9J8)
+
+My wife is a medical sports trainer, and we had access to her instruments for measuring body fat. My readings went from 25% to 19% in eight weeks, a drop of six percentage points. I was delighted with that change. If you ask me how much of it I can assign to an egg sandwich, I can’t tease that out of two readings. What I can tell you in considerable detail is what replaced the yogurt, because that was the choice I had to make again the following afternoon.
+
+Here’s a useful way to size a change. Picture yourself at the fridge at the hour you usually eat. If your idea calls for six ingredients you’ve never bought and a recipe you still have to look up, it’s asking quite a lot of that future version of you. If there’s a snack you like and know how to make, you can do the deciding when you shop. That leaves your actual break free for eating it.
+
+## The shopping list
+
+I cut down the number of things I buy regularly. Plain oats, skyr, apples, cinnamon. Eggs, onions, garlic, carrots, frozen spinach. I know what to do with the things I buy, they’re quick to turn into something I want, and my grocery bill went down. I can build on those basics when I feel like something different. That last bit is one reason the list suits me. It gives me somewhere to start even on a week when I have no interest in thinking about food.
+
+Try writing down three things you actually finished from your last grocery shop. Which of them would you be glad to find at home on a difficult workday? That’s a better candidate for *your* short list than something that happens to be in mine. Of the two things I learned in the kitchen, you might prefer shopping for a snack ahead of time, or noticing what brought you into the room. Either one makes sense on its own.
+
+# What gets me started on a hard day
+
+## One thing I can finish
+
+There’s an unglamorous thing I enjoy about my morning push-ups. At some point I’ve done them. I can get on with making coffee and have that small piece of the morning behind me. I feel the same satisfaction about taking a cold shower and about brewing the coffee itself. I went looking for an explanation because those little completions seemed to give me energy.
+
+In IT, the thing you’re supposed to finish can be an awfully long way off. Consider an engineer who has just been asked to take over a service. “Understand the service” is a tough assignment for a Thursday afternoon. Finding out who can answer a question about last night’s alert is something they can do today. If they finish that one piece and acknowledge it, there’s a genuine accomplishment available to them even though the service is still complicated on Friday.
+
+You can use that reasoning with a habit. “Start moving more” is as open-ended as understanding the whole service. The distance to the corner and back has a beginning and an end. You get to notice when you’ve done it. I think that noticing deserves a little of the attention we usually give to all the work left to do.
+
+## Two things I took from David Goggins
+
+*Can’t Hurt Me* put a blunt question in my head. Given everything that brought me here, what can I get up and do now? I liked the insistence on moving. *Never Finished* spoke to a later moment, when you’ve already done something difficult and have to decide what sort of effort you want to put into the next thing. Both books ask a great deal of the person reading them. The piece I could use was the willingness to begin a small, concrete thing on a day when I didn’t especially feel like it. [David Goggins’s books](https://davidgoggins.com/book/)
+
+It’s easy to borrow somebody’s idea of what counts as hard. For one person five squats require some determination. For another they’re easy and enjoyable. For someone who has been working late all week, the difficult thing may be getting up and leaving when they said they would. You know quite a bit about the effort your own choice asks of you. A stranger counting repetitions knows much less.
+
+## What I thought was happening in my brain
+
+Huberman’s episode on dopamine gave me a way to think about why finishing small tasks felt good. Dopamine is a chemical that nerve cells use to send signals. Researchers who study reward can observe what some of those cells do when an expected reward arrives earlier or later than predicted. That’s a wonderfully specific question. In my kitchen all I have to go on is the pleasure of having made my coffee. [Huberman on motivation](https://www.youtube.com/watch?v=QmOF0crdyRU) · [Hollerman and Schultz on reward timing](https://pubmed.ncbi.nlm.nih.gov/10195164/)
+
+In his conversation with Goggins, Huberman talks about a part of the brain called the anterior midcingulate cortex. I loved the idea that doing something difficult might build my capacity to do the next difficult thing. In the article I went further and described bits of the brain growing with effort and shrinking when I avoided it. That was too literal. In one human study, stimulating this area electrically in two patients brought on a sense of an approaching challenge and determination to meet it. That experiment measured something happening in the moment. It leaves open what happens to the size of that region when an engineer keeps a small promise to themself. [Goggins and Huberman’s conversation](https://www.youtube.com/watch?v=nDLb8_wgX50&t=2774s) · [Parvizi and colleagues’ stimulation study](https://pubmed.ncbi.nlm.nih.gov/24316296/)
+
+For tomorrow morning I can settle a much more immediate question. Can I name something worth doing that I’ll recognize as finished? If the answer is yes, I’ve given myself a fair chance to start.
