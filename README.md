@@ -7,6 +7,10 @@ SPDX-License-Identifier: GPL-3.0-only
 
 Aibrary is a workflow for agents to write, review, and render tutorial books. Each book has an editable Markdown manuscript and an EPUB built from the same source. Both formats have a clickable chapter table of contents.
 
+## Books
+
+- [The No AI Slop Manifesto](book/no-ai-slop/README.md)
+
 ## Getting started
 
 Keep `AGENTS.md` at the root of your book project. Start the agent there and give it a topic or an existing manuscript, along with the scope of the writing or review. [Read the agent instructions](AGENTS.md).
