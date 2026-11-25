@@ -9,7 +9,7 @@ Aibrary is a workflow for agents to write, review, and render tutorial books. Ea
 
 ## Books
 
-- [The No AI Slop Manifesto](book/no-ai-slop/README.md)
+- [The No AI Slop Manifesto](books/2026-11-25-no-ai-slop/README.md)
 
 ## Getting started
 

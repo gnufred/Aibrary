@@ -7,7 +7,7 @@ Run from the Aibrary repository root to regenerate both covers with the [shared 
 ```bash
 render_dir=$(mktemp -d)
 tools/cover-creator/create-cover.sh \
-  book/no-ai-slop/cover/artwork.png \
+  books/2026-11-25-no-ai-slop/cover/artwork.png \
   "$render_dir/cover" \
   $'The No AI Slop\nManifesto' \
   'Fred Potvin' \

@@ -12,7 +12,7 @@ SPDX-License-Identifier: GPL-3.0-only
 
 Use the book's current manuscript or index for the title, author, and optional subtitle. Honor cover-specific wording supplied by the user. Reuse supplied or existing artwork when it fits the brief. If an illustration is needed, generate near-square artwork with no lettering and leave room around the focal subject for a centered crop. Follow the book's attribution rules for third-party artwork.
 
-Keep the source illustration and approved covers with the book. Follow its existing layout or use `book/<slug>/cover/` when it has no cover location.
+Keep the source illustration and approved covers with the book. Follow its existing layout or use `books/YYYY-MM-DD-<slug>/cover/` when it has no cover location.
 
 ## Render with the repository tool
 
