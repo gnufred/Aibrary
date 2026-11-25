@@ -2,6 +2,10 @@
 
 *Who Owns the Work?*
 
+<img src="cover/cover.webp" alt="Cover of The No AI Slop Manifesto by Fred Potvin" width="240">
+
+[Cover files and rendering instructions](cover/README.md)
+
 Continue editing the [reviewed manuscript](04-review-book/the-no-ai-slop-manifesto.md). The draft preserves the complete manuscript before editorial review.
 
 | Skill stage | Material | Git milestones |
