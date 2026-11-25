@@ -13,10 +13,6 @@ I love books, and I spent my whole summer trying to figure out how to get AI to 
 
 I first turned years of roleplaying game notes and manuscript drafts into a full fantasy saga. Now I want to write books that help engineers navigate the age of AI.
 
-## Books
-
-- [The Work We Pass On](books/2026-11-25-the-work-we-pass-on/README.md)
-
 ## Getting started
 
 Keep `AGENTS.md` at the root of your book project. Start the agent there and give it a topic or an existing manuscript, along with the scope of the writing or review. [Read the agent instructions](AGENTS.md).
