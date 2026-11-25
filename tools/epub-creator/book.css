@@ -1,0 +1,67 @@
+/* SPDX-FileCopyrightText: 2026 Fred Potvin
+ * SPDX-License-Identifier: GPL-3.0-only
+ */
+
+body {
+  line-height: 1.45;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+p {
+  widows: 2;
+  orphans: 2;
+}
+
+.titlepage {
+  text-align: center;
+}
+
+.titlepage .subtitle {
+  font-style: italic;
+}
+
+.titlepage .rights {
+  margin-top: 2em;
+  font-size: 0.85em;
+}
+
+.footnote-ref {
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: super;
+}
+
+img, svg {
+  max-width: 100%;
+}
+
+figure {
+  margin: 1em 0;
+}
+
+figcaption {
+  font-size: 0.9em;
+}
+
+pre, code {
+  font-family: monospace;
+  hyphens: none;
+  overflow-wrap: break-word;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border-bottom: 1px solid;
+  padding: 0.25em 0.5em;
+}
