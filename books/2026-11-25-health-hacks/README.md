@@ -4,7 +4,7 @@ Fred Potvin’s book for fellow IT engineers living through stressful changes at
 
 Read the [EPUB](my-health-hacks.epub) or the [reviewed Markdown](04-review-book/my-health-hacks.md). The Markdown in the review folder is the current editable manuscript.
 
-[Compare three cover prototypes](cover/prototypes/README.md).
+Fred chose the cow illustration for the cover. [Compare three possible titles and subtitles on the selected artwork](cover/README.md).
 
 | Stage | Material | Milestone |
 | --- | --- | --- |
