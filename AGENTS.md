@@ -31,6 +31,14 @@ Use Git automatically during book work. Initialize a repository at the project r
 
 Commit at each meaningful milestone, such as drafting a chapter or fixing an example and its references. Inspect the diff and run the relevant checks before each commit. Write commit messages that explain what changed and why.
 
+## Bash tooling
+
+- Keep shell scripts in Bash. Split distinct tasks into named functions and use `main "$@"` when it makes the execution order clearer.
+- Use `local` for function variables. Declare them separately from assignments that use command substitution so you can check the command's exit status.
+- Quote expansions passed as arguments, and use arrays to assemble and pass lists of arguments.
+- Check failures explicitly when a script needs to recover or explain what failed. Send diagnostics to stderr and reserve stdout for results. Use `CDPATH=''` with internal `cd` commands so callers' settings do not affect path resolution or output.
+- Format with `shfmt` and run `tools/check-bash.sh` before handing off script changes. Scope any additional ShellCheck suppression to the affected code and explain why it is needed. [Local check commands](README.md#bash-checks)
+
 ## Book output
 
 Write and maintain the book in Markdown. For final delivery, provide the complete Markdown and an EPUB generated from the current manuscript. Include a clickable chapter table of contents in both formats.

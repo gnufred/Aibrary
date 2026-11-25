@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Fred Potvin
+# SPDX-License-Identifier: GPL-3.0-only
+
+enable=all
+# Allow $var when Bash can identify the variable name unambiguously.
+disable=SC2250

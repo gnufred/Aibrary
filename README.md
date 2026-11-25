@@ -36,6 +36,16 @@ To build an EPUB from the current manuscript, use the [shared EPUB creator](tool
 
 During a tutorial review, the agent makes and verifies edits directly in the book and records meaningful progress in Git. The finished work includes the Markdown and EPUB, a diff you can inspect, and a summary of the checks that ran.
 
+## Bash checks
+
+GitLab runs `tools/check-bash.sh` on every push. The script checks all shell scripts under `tools/`, including itself. Run the same command locally with ShellCheck 0.11.0 and shfmt 3.11.0 or newer installed.
+
+```bash
+./tools/check-bash.sh
+```
+
+Run `shfmt -w tools` to apply the four-space formatting. [Bash coding conventions](AGENTS.md#bash-tooling)
+
 ## License
 
 The Aibrary workflow files in `README.md`, `AGENTS.md`, and `.agents/skills/` are licensed under the GNU General Public License v3.0 only (`GPL-3.0-only`). [Read the full license](LICENSE).

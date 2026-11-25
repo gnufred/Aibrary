@@ -4,7 +4,7 @@
 
 set -euo pipefail
 
-if (( $# < 4 || $# > 5 )); then
+if (($# < 4 || $# > 5)); then
     printf 'Usage: %s ARTWORK NEW_OUTPUT_DIR TITLE AUTHOR [SUBTITLE]\n' "$0" >&2
     exit 2
 fi
@@ -16,13 +16,13 @@ title=$3
 author=$4
 subtitle=${5-}
 title_size=${COVER_TITLE_SIZE:-160}
-tool_dir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)
+tool_dir=$(CDPATH='' cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)
 
 if [[ ! -f $artwork || -z $title || -z $author ]]; then
     printf 'Supply a local artwork file, a title, and an author.\n' >&2
     exit 2
 fi
-if [[ ! $title_size =~ ^[1-9][0-9]{2}$ ]] || (( title_size < 104 || title_size > 160 )); then
+if [[ ! $title_size =~ ^[1-9][0-9]{2}$ ]] || ((title_size < 104 || title_size > 160)); then
     printf 'COVER_TITLE_SIZE must be an integer from 104 to 160.\n' >&2
     exit 2
 fi
@@ -34,7 +34,7 @@ cleanup() {
     if [[ -n $work_dir ]]; then
         rm -rf -- "$work_dir"
     fi
-    if (( status != 0 )); then
+    if ((status != 0)); then
         rm -f -- "$output_dir/cover.jpg" "$output_dir/cover.webp"
         rmdir -- "$output_dir"
     fi
@@ -43,7 +43,7 @@ trap cleanup EXIT
 work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
 
 (
-    cd -- "$work_dir"
+    CDPATH='' cd -- "$work_dir"
     # Keep user text and paths outside FFmpeg's filter syntax.
     ln -s -- "$tool_dir/fonts" fonts
     # Keep the author on one line above the repository URL.
@@ -77,7 +77,7 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
         printf '%s' "$subtitle" > subtitle.txt
         filters+=",drawtext=fontfile=fonts/Inter-Medium.ttf:textfile=subtitle.txt:expansion=none:fontsize=56:fontcolor=0xF5F3EE:line_spacing=8:x=112:y=$subtitle_y"
     fi
-    if (( panel_text_bottom > artwork_y )); then
+    if ((panel_text_bottom > artwork_y)); then
         printf 'The title and subtitle exceed the title panel. Lower COVER_TITLE_SIZE or use fewer lines.\n' >&2
         exit 2
     fi
@@ -85,7 +85,7 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
     filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=github.com/gnufred/Aibrary:fontsize=48:fontcolor=0xA9C7D0:x=112:y=2484:y_align=baseline'
 
     ffmpeg -hide_banner -loglevel error -nostdin -i "$artwork" -i "$tool_dir/aibrary-bookmark.svg" \
-        -filter_complex "[0:v:0]$filters[cover];[cover][1:v:0]overlay=112:84:format=rgb,split[jpeg][web];[web]scale=800:1280[webp]" \
+        -filter_complex "[0:v:0]${filters}[cover];[cover][1:v:0]overlay=112:84:format=rgb,split[jpeg][web];[web]scale=800:1280[webp]" \
         -map '[jpeg]' -frames:v 1 -c:v mjpeg -q:v 2 -pix_fmt yuvj444p -update 1 cover.jpg \
         -map '[webp]' -frames:v 1 -c:v libwebp -quality 84 -compression_level 6 cover.webp
 )

@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2026 Fred Potvin
+# SPDX-License-Identifier: GPL-3.0-only
+
+root = true
+
+[[bash]]
+indent_style = space
+indent_size = 4
+switch_case_indent = true
+space_redirects = true

@@ -15,13 +15,13 @@ fail() {
 
 output=
 cover_options=()
-while (( $# )); do
+while (($#)); do
     case $1 in
-        -h|--help)
+        -h | --help)
             usage
             exit 0
             ;;
-        -o|--output)
+        -o | --output)
             [[ -n ${2-} ]] || fail "$1 requires an output path."
             output=$2
             shift 2
@@ -45,7 +45,7 @@ while (( $# )); do
     esac
 done
 
-if (( $# == 0 )); then
+if (($# == 0)); then
     usage >&2
     exit 1
 fi
@@ -60,9 +60,9 @@ output=${output:-${1%.md}.epub}
 [[ ! -d $output ]] || fail "Output path is a directory: $output"
 output_dir=$(dirname -- "$output")
 [[ -d $output_dir ]] || fail "Output directory does not exist: $output_dir"
-command -v pandoc >/dev/null || fail 'Pandoc is required.'
-command -v python3 >/dev/null || fail 'Python 3 is required.'
-tool_dir=$(CDPATH= cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)
+command -v pandoc > /dev/null || fail 'Pandoc is required.'
+command -v python3 > /dev/null || fail 'Python 3 is required.'
+tool_dir=$(CDPATH='' cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)
 
 # Build beside the destination so a failed conversion leaves any previous EPUB intact.
 work_dir=$(mktemp -d -- "$output_dir/.aibrary-epub.XXXXXX")
