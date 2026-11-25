@@ -3,6 +3,11 @@ name: aibrary-book-planning
 description: Plan or restructure an Aibrary technical tutorial book from a topic or existing manuscript. Use for audience, prerequisites, learning outcomes, scope, chapter order, target versions, or a structural problem that changes what the book needs to teach.
 ---
 
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 # Book Planning
 
 Read the brief, the book project's applicable instructions, and any existing plan or manuscript. Recover established decisions before changing them. Identify what the reader already knows, what they should be able to do afterward, and the technical depth needed to get them there.

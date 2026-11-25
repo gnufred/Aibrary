@@ -3,6 +3,11 @@ name: aibrary-tutorial-review
 description: Review and directly revise an Aibrary technical tutorial manuscript. Use for a fresh reader's pass, verification of claims and examples against target versions, and editorial fixes with a verified manuscript diff.
 ---
 
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 # Tutorial Review
 
 Identify the requested manuscript sections and the surrounding text a reader needs. Check the applicable book instructions and preserve the starting Git state before editing.

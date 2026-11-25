@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 # Aibrary source reuse policy
 
 Apply this policy both to copies stored in the book project and to material reproduced or adapted in the manuscript.

@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 # Editorial guidance for technical tutorials
 
 - State who the chapter is for and what problem it addresses. For a continuing example, recall the state the reader should have reached and point to its setup. Learning Git opens a later chapter by reconnecting earlier concepts to the next operation and showing the state the reader needs. [Learning Git, chapter 3](https://www.oreilly.com/library/view/learning-git/9781098133900/lg_ch03.xhtml)

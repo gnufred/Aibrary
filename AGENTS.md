@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 # Aibrary agent instructions
 
 ## Tutorial review
@@ -15,6 +20,8 @@ Commit at each meaningful milestone, such as drafting a chapter or fixing an exa
 ## Book output
 
 Write and maintain the book in Markdown. Deliver the complete Markdown and an EPUB generated from the same source. Include a clickable chapter table of contents in both formats.
+
+Include each book’s own copyright and license notice in its Markdown manuscript and in the EPUB. Preserve any license and attribution notices required by third-party material in the book.
 
 Check every chapter link in rendered Markdown. Open the compiled EPUB in a reader and click each entry in the reader’s table of contents. Verify that every chapter appears once, in manuscript order, and opens at the correct heading. Pandoc can report a successful build even when chapter navigation is broken. Fix any issues, rebuild, and repeat the checks before the final Git snapshot.
 

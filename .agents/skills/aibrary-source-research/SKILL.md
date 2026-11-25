@@ -3,6 +3,11 @@ name: aibrary-source-research
 description: Research sources for an Aibrary technical tutorial book. Use to find version-matched evidence, verify redistribution terms for exact materials, maintain approved local sources and attribution, or resolve an evidence gap from authoring or review.
 ---
 
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 # Source Research
 
 Read `plan.md` and any existing source index. Start from the claims, examples, or assets needed for each affected chapter, including any new questions from authoring or review. Prefer primary sources that match the target versions. Record mismatches and label the version or revision you actually checked.

@@ -3,6 +3,11 @@ name: aibrary-author
 description: Draft or extend the Markdown manuscript of an Aibrary technical tutorial book from its plan and approved sources. Use for concept-first prose, chapter progression, short teaching examples, exercises, and references.
 ---
 
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+
 # Author
 
 Read the applicable project instructions, `plan.md`, the approved source index, and any manuscript that surrounds the requested section. For an existing draft, recover established decisions from the brief and manuscript if the plan is missing. Route material gaps to Planning or Research before drafting the affected sections. Identify what the reader knows at this point, what each section teaches, and how it prepares them for the next one. For chapter design, consult the [editorial guidance](references/editorial-guidance.md).
