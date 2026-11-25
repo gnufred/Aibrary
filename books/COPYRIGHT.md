@@ -2,7 +2,7 @@
 
 ## License and reuse
 
-Third-party material remains subject to its own terms. See the book’s credits and references for applicable licenses, permissions, and attribution.
+Third-party material remains subject to its own terms. The footnote attached to each excerpt gives the source, attribution, and any applicable license or permission.
 
 ## Copyright and AI assistance
 
