@@ -2,7 +2,7 @@
 
 *Lessons from the No AI Slop Manifesto*
 
-<img src="cover/cover.webp" alt="Cover of The Work We Pass On by Fred Potvin" width="240">
+<img src="cover/cover.webp" alt="Cover of The Work We Pass On by Fred Potvin. Five robot faces write a dense field of tiny code on a blue background." width="240">
 
 [Download the EPUB](the-work-we-pass-on.epub)
 
