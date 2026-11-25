@@ -1,5 +1,5 @@
 ---
-name: aibrary-source-research
+name: aibrary-02-research-sources
 description: Research sources for an Aibrary technical tutorial book. Use to find version-matched evidence, verify redistribution terms for exact materials, maintain approved local sources and attribution, or resolve an evidence gap from authoring or review.
 ---
 
@@ -18,4 +18,4 @@ Follow the book's established layout. For a new layout, save approved material u
 
 For each approved item, record the title and creator, original URL, version or revision, exact material covered, local path, license and grant evidence, credit and notice requirements, and the claims or chapters it supports. Record exclusions and evidence gaps in the index or existing research notes. Identify the affected claim or chapter and the impact on drafting.
 
-Before handing off, confirm that each approved local path resolves and that the author can trace the evidence and satisfy the reuse conditions. Send gaps that change book scope or prerequisites back to `$aibrary-book-planning`. Give the author the approved index and any narrower gaps to work around.
+Before handing off, confirm that each approved local path resolves and that the author can trace the evidence and satisfy the reuse conditions. Send gaps that change book scope or prerequisites back to `$aibrary-01-plan-book`. Hand the approved index and any narrower gaps to `$aibrary-03-draft-book` when the requested work continues into drafting.

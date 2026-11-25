@@ -1,5 +1,5 @@
 ---
-name: aibrary-tutorial-review
+name: aibrary-04-review-book
 description: Review and directly revise an Aibrary technical tutorial manuscript. Use for a fresh reader's pass, verification of claims and examples against target versions, and editorial fixes with a verified manuscript diff.
 ---
 
@@ -21,6 +21,6 @@ Use a neutral brief such as “Read this manuscript in order as a first-time rea
 ## Verify and revise
 
 1. After recording the first read, compare the findings and manuscript with `plan.md` and the approved sources. If the plan is missing, use the user's brief and the manuscript's stated audience and goals. Verify technical claims, example behavior, and attribution. Reproduce examples on the target versions where feasible and consult version-specific documentation otherwise. Record the exact gap when a check is blocked.
-2. Apply substantiated fixes directly to the Markdown within scope. Update affected examples, exercises, expected results, links, and credits together. Route new evidence needs through `$aibrary-source-research` and substantive scope changes through `$aibrary-book-planning`.
+2. Apply substantiated fixes directly to the Markdown within scope. Update affected examples, exercises, expected results, links, and credits together. Route new evidence needs through `$aibrary-02-research-sources` and substantive scope changes through `$aibrary-01-plan-book`.
 3. Reread the edited sections in context, inspect the diff, and rerun affected examples and the book build where applicable. After a fix, repeat the checks affected by it. For book delivery, follow the shared Markdown and EPUB navigation checks on the final files. If an EPUB reader is unavailable, inspect the packaged navigation and report the reader check as blocked.
 4. Follow the shared Git and handoff instructions. Return the revised manuscript, the requested book artifacts, the comparison from the recorded starting state, and the checks actually performed.
