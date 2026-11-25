@@ -61,6 +61,7 @@ output=${output:-${1%.md}.epub}
 output_dir=$(dirname -- "$output")
 [[ -d $output_dir ]] || fail "Output directory does not exist: $output_dir"
 command -v pandoc >/dev/null || fail 'Pandoc is required.'
+command -v python3 >/dev/null || fail 'Python 3 is required.'
 tool_dir=$(CDPATH= cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)
 
 # Build beside the destination so a failed conversion leaves any previous EPUB intact.
@@ -80,5 +81,6 @@ pandoc \
     "${cover_options[@]}" \
     -- "$@"
 
-mv -fT -- "$work_dir/book.epub" "$output"
+python3 "$tool_dir/number-footnotes.py" "$work_dir/book.epub" "$work_dir/numbered.epub"
+mv -fT -- "$work_dir/numbered.epub" "$output"
 printf '%s\n' "$output"

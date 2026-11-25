@@ -29,7 +29,7 @@ p {
   font-size: 0.85em;
 }
 
-.footnote-ref {
+.footnote-ref, .footnote-separator {
   font-size: 0.75em;
   line-height: 0;
   vertical-align: super;

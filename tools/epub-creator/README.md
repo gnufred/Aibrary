@@ -5,7 +5,7 @@ SPDX-License-Identifier: GPL-3.0-only
 
 # Aibrary EPUB creator
 
-`create-epub.sh` builds an EPUB 3 ebook from one Markdown manuscript or several Markdown files supplied in reading order. It uses Bash, GNU coreutils, and Pandoc. The conversion is tested with Pandoc 3.11.
+`create-epub.sh` builds an EPUB 3 ebook from one Markdown manuscript or several Markdown files supplied in reading order. It uses Bash, GNU coreutils, Pandoc, and the Python standard library (Python 3.9 or newer). The conversion is tested with Pandoc 3.11.
 
 Run this from the repository root to write the EPUB beside the manuscript.
 
@@ -33,4 +33,4 @@ tools/epub-creator/create-epub.sh \
 tools/epub-creator/create-epub.sh -o my-book.epub intro.md chapters/first.md chapters/second.md
 ```
 
-The EPUB uses a small stylesheet and the reader’s fonts and colors. Before publishing, open the EPUB in your reader, click through the chapter menu, and run EPUBCheck if available.
+The EPUB uses a small stylesheet and the reader’s fonts and colors. Footnote numbers continue across chapters, and each note links back to its reference. Before publishing, open the EPUB in your reader, click through the chapter menu, and run EPUBCheck if available.
