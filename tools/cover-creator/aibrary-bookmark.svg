@@ -1,0 +1,12 @@
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="92" viewBox="0 0 76 92" role="img" aria-labelledby="bookmark-title">
+  <title id="bookmark-title">Aibrary bookmark A</title>
+  <path fill="#A9DAE1" fill-rule="evenodd" d="
+    M 8 0 H 68 Q 76 0 76 8 V 92 L 38 75 L 0 92 V 8 Q 0 0 8 0 Z
+    M 33 19 H 43 L 59 60 H 49 L 46 52 H 30 L 27 60 H 17 Z
+    M 38 31 L 33 44 H 43 Z
+  "/>
+</svg>
