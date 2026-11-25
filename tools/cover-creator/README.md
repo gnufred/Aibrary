@@ -22,7 +22,7 @@ Choose a new output directory inside an existing parent directory. The script wr
 
 Use near-square illustration source art. FFmpeg scales it to fill the 1600 × 1440 artwork window and crops from the center. The illustration starts 896 pixels from the top of the cover. The bookmark, book title, subtitle, and author share a 112-pixel left margin. The `Aibrary` wordmark sits to the right of the bookmark.
 
-Use explicit line breaks for long titles and inspect the result at thumbnail size. For a smaller title, prefix the command with `COVER_TITLE_SIZE=128`. The default is 160 and the accepted range is 104–160. Subtitle line breaks also use literal newlines. Line fitting is manual.
+Title baselines are spaced at 1.1 times the title size. The subtitle follows the final title line. Use explicit line breaks and inspect the result at thumbnail size. For a three-line title with a two-line subtitle, try `COVER_TITLE_SIZE=128`. The default is 160 and the accepted range is 104–160. If the text block is too tall for the panel, lower the title size or use fewer lines. Subtitle line breaks also use literal newlines, and line fitting is manual.
 
 ## Fonts
 

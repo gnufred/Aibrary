@@ -46,17 +46,38 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
     cd -- "$work_dir"
     # Keep user text and paths outside FFmpeg's filter syntax.
     ln -s -- "$tool_dir/fonts" fonts
-    printf '%s' "$title" > title.txt
     printf '%s' "$author" > author.txt
 
     # The padded background forms both the title panel and the footer.
+    artwork_y=896
     filters='scale=1600:1440:force_original_aspect_ratio=increase:reset_sar=1'
-    filters+=',format=rgb24,crop=1600:1440,pad=1600:2560:0:896:color=0x101820'
+    filters+=",format=rgb24,crop=1600:1440,pad=1600:2560:0:$artwork_y:color=0x101820"
     filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=Aibrary:fontsize=84:fontcolor=0xA9DAE1:x=216:y=98'
-    filters+=",drawtext=fontfile=fonts/Inter-Bold.ttf:textfile=title.txt:expansion=none:fontsize=$title_size:fontcolor=0xF5F3EE:line_spacing=12:x=112:y=208"
+
+    # Leave room below the imprint and set the title on baselines 1.1 em apart.
+    first_baseline=$((270 + (title_size * 74 + 50) / 100))
+    baseline_step=$(((title_size * 110 + 50) / 100))
+    line_index=0
+    while IFS= read -r line; do
+        title_y=$((first_baseline + line_index * baseline_step))
+        printf '%s' "${line%$'\r'}" > "title-$line_index.txt"
+        filters+=",drawtext=fontfile=fonts/Inter-Bold.ttf:textfile=title-$line_index.txt:expansion=none:fontsize=$title_size:fontcolor=0xF5F3EE:x=112:y=$title_y:y_align=baseline"
+        line_index=$((line_index + 1))
+    done <<< "$title"
+
+    # Reserve space for title descenders and the subtitle's Inter Medium line boxes.
+    title_bottom=$((title_y + title_size / 5))
+    panel_text_bottom=$title_bottom
     if [[ -n $subtitle ]]; then
+        subtitle_y=$((title_bottom + 54))
+        subtitle_breaks=${subtitle//[^$'\n']/}
+        panel_text_bottom=$((subtitle_y + 64 + 76 * ${#subtitle_breaks}))
         printf '%s' "$subtitle" > subtitle.txt
-        filters+=',drawtext=fontfile=fonts/Inter-Medium.ttf:textfile=subtitle.txt:expansion=none:fontsize=56:fontcolor=0xF5F3EE:line_spacing=8:x=112:y=736'
+        filters+=",drawtext=fontfile=fonts/Inter-Medium.ttf:textfile=subtitle.txt:expansion=none:fontsize=56:fontcolor=0xF5F3EE:line_spacing=8:x=112:y=$subtitle_y"
+    fi
+    if (( panel_text_bottom > artwork_y )); then
+        printf 'The title and subtitle exceed the title panel. Lower COVER_TITLE_SIZE or use fewer lines.\n' >&2
+        exit 2
     fi
     filters+=',drawtext=fontfile=fonts/Inter-SemiBold.ttf:textfile=author.txt:expansion=none:fontsize=64:fontcolor=0xF5F3EE:x=112:y=2448-th/2'
 
