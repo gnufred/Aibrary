@@ -16,7 +16,7 @@ I first turned years of roleplaying game notes and manuscript drafts into a full
 ## Books
 
 - [The Work We Pass On](books/2026-11-25-the-work-we-pass-on/README.md)
-- [My Health Hacks](books/2026-11-25-health-hacks/README.md)
+- [The habits I kept](books/2026-11-25-health-hacks/README.md)
 
 ## Getting started
 

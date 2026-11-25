@@ -1,10 +1,14 @@
-# My Health Hacks
+# The habits I kept
+
+*Applying my hacking mindset to heal myself*
+
+<img src="cover/cover.webp" width="220" alt="The habits I kept by Fred Potvin, with a green cow facing the reader.">
 
 Fred Potvin’s book for fellow IT engineers living through stressful changes at work. It draws on six years of researching and trying habits, with the hope that each reader finds one that makes their life better.
 
 Read the [EPUB](my-health-hacks.epub) or the [reviewed Markdown](04-review-book/my-health-hacks.md). The Markdown in the review folder is the current editable manuscript.
 
-Fred chose the cow illustration for the cover. [Compare three possible titles and subtitles on the selected artwork](cover/README.md).
+[Cover files and artwork](cover/README.md)
 
 | Stage | Material | Milestone |
 | --- | --- | --- |

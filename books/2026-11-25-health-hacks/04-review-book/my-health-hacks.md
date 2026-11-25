@@ -1,11 +1,12 @@
 ---
-title: My Health Hacks
+title: The habits I kept
+subtitle: Applying my hacking mindset to heal myself
 author: Fred Potvin
 lang: en
 date: 2026-11-25
 copyright: '© 2026 Fred Potvin'
 rights: 'All rights reserved in the original text. The credited research excerpt carries its own license.'
-ai-disclosure: 'Written and edited with AI assistance using Fred Potvin’s article, firsthand accounts, and cited sources.'
+ai-disclosure: 'Written and edited with AI assistance using Fred Potvin’s article, firsthand accounts, and cited sources. The cover illustration was generated with ImageGen.'
 description: 'Six years of trying small changes, shared with fellow IT engineers who want one habit that makes their days feel better.'
 ---
 
