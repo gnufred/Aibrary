@@ -94,13 +94,13 @@ You might use that question about the end of work even if you never drink beer. 
 
 Five push-ups, five squats, five more push-ups. That was my starting set. I changed my hand position for the second set of push-ups. Then I was done until the next time. I did that little sequence three times a day, and over time I could feel the difference in my upper-body strength.
 
-What I like about the number five is that I know where the end is. *Get stronger* could occupy the rest of my life. Five squats occupy a space I can see from here. That makes it possible to ask an ordinary question like whether there’s room to do them while something else is happening. Someone who spends the day on their feet might look forward to a different kind of break altogether.
+What I like about the number five is that I know where the end is. *Get stronger* could occupy the rest of my life. I can decide before I start whether I have time for five squats, and I know when I’ve done the fifth one. Someone who spends the day on their feet might look forward to a different kind of break altogether.
 
 I was interested when Andy Galpin talked about fitting brief bouts of movement into a day. There’s even a study of people doing short climbs in a three-flight stairwell. Sedentary young adults in the exercise group did those climbs at separate times of day, three days a week for six weeks, and improved their cardiorespiratory fitness. I like the stairwell in that study. It makes the idea concrete. Someone can decide the stairs are an appealing opportunity in their own building. Someone else can decide they’d enjoy a walk outside much more. [Galpin on brief bouts of exercise](https://www.youtube.com/watch?v=oNkDA2F7CjM&t=530s) · [Jenkins and colleagues’ stair-climbing study](https://pubmed.ncbi.nlm.nih.gov/30649897/)
 
 ## Four kilometers and twelve
 
-I remember two runs in particular for the amount of ground I could cover. Early on, four kilometers took me 45 minutes. Two years later, I could run twelve in an hour. *Pace* is the time it takes to cover a unit of distance. Divide 45 minutes by four and you get eleven minutes and fifteen seconds per kilometer. Divide an hour by twelve and you get five minutes per kilometer. Along with going faster, I could be out running for a whole hour. That meant a great deal to someone who remembered how he’d felt when his second child was on the way.
+Early on, four kilometers took me 45 minutes. Two years later, I could run twelve in an hour. *Pace* is the time it takes to cover a unit of distance. Divide 45 minutes by four and you get eleven minutes and fifteen seconds per kilometer. Divide an hour by twelve and you get five minutes per kilometer. Along with going faster, I could be out running for a whole hour. That meant a great deal to someone who remembered how he’d felt when his second child was on the way.
 
 There’s room to care about a much smaller distance. Suppose what you miss about going into an office is the bit of walking you used to do on the way there. You might decide to take a short walk before opening the laptop at home. You can tell whether the walk gives you something you missed about the commute without ever looking at a pace reading. A GPS watch answered my question because I was interested in running speed. Your front door might be the only equipment your question requires.
 
@@ -165,3 +165,68 @@ Huberman’s episode on dopamine gave me a way to think about why finishing smal
 In his conversation with Goggins, Huberman talks about a part of the brain called the anterior midcingulate cortex. I loved the idea that doing something difficult might build my capacity to do the next difficult thing. In the article I went further and described bits of the brain growing with effort and shrinking when I avoided it. That was too literal. In one human study, stimulating this area electrically in two patients brought on a sense of an approaching challenge and determination to meet it. That experiment measured something happening in the moment. It leaves open what happens to the size of that region when an engineer keeps a small promise to themself. [Goggins and Huberman’s conversation](https://www.youtube.com/watch?v=nDLb8_wgX50&t=2774s) · [Parvizi and colleagues’ stimulation study](https://pubmed.ncbi.nlm.nih.gov/24316296/)
 
 For tomorrow morning I can settle a much more immediate question. Can I name something worth doing that I’ll recognize as finished? If the answer is yes, I’ve given myself a fair chance to start.
+
+# What anger was costing me
+
+## The cows where I live
+
+I live in the countryside. There are a lot of cows around here, which turns out to be handy when the book that helped you with your temper is called *The Cow in the Parking Lot*. I read it once. I get reminders all the time.
+
+Before reading Leonard Scheff and Susan Edmiston, I understood perfectly well that an angry reaction could make things worse. Knowing that was surprisingly little help in the moment. What finally got my attention was the energy it cost *me*. An exchange might accomplish very little and still take a tremendous amount out of me. I wanted that energy back. Reading the book and taking an honest look at my own behavior made a difference I could feel through the rest of the day. [Scheff and Edmiston’s *The Cow in the Parking Lot*](https://www.hachettebookgroup.com/titles/susan-edmiston/the-cow-in-the-parking-lot-a-zen-approach-to-overcoming-anger/9780761158158/)
+
+Here’s what that looks like with my kids. Sometimes they do something that annoys me and I feel like shouting. I remind myself that they’re kids. Doing things that annoy their parents is very much in their nature. That thought gives me a chance to decide what to say to the child in front of me. Whatever needs dealing with is still there. I can deal with it in a voice I want them to hear.
+
+I particularly like the cows because remembering takes so little effort. I didn’t set up a system to notify me about my temper. I read a book with a memorable title. I live where I live. Every so often the countryside hands me the idea again.
+
+## What did I expect?
+
+One of the book’s ideas concerns the expectations we carry into an encounter. You can discover quite a specific one by looking at a moment when somebody fails to meet it. Suppose an engineer hands you an incident at the end of their shift with a message saying only that the service is still slow. You expected to hear which change they tried and what happened afterward. There’s nothing unreasonable about wanting that information. It’s also remarkably easy for the first line you type to be about the other engineer’s character.
+
+Take a draft reply like “Did you even look at the graphs?” The person on the other end can answer yes, truthfully, and you’ll still be missing the information. A more useful reply would be “Which change did you try, and did latency move afterward?” Notice what happened to the anger in this made-up handover. You didn’t have to feel cheerful about receiving it. You identified the expectation behind the feeling and turned it into a question the other person could answer. If poor handovers keep happening, there’s a separate conversation to have about what belongs in one.
+
+Kelly McGonigal’s *The Upside of Stress* gave me another way to think about the energy of a difficult moment. My takeaway was that I could sometimes do something with it. In the handover example, that might mean using the urgency you already feel to ask the question while the colleague is still online. Researchers who studied how people understand stress have found that those beliefs can influence how people respond to a challenge. An overloaded shift rota still needs someone to change the rota. You can want that change and choose how you speak to your colleague today. [McGonigal’s book](https://www.penguinrandomhouse.com/books/316675/the-upside-of-stress-by-kelly-mcgonigal/9780698170803/) · [Crum, Salovey, and Achor on stress mindsets](https://pubmed.ncbi.nlm.nih.gov/23437923/)
+
+## Before pressing Send
+
+If this is the chapter that sounds like your day, try one small edit the next time a message gets under your skin. Read your reply and find the question you actually need answered. Put that question where the accusation was. You’ll know whether the edit did its job by reading it from the other end. Can the recipient tell what information you need?
+
+For me, at home, the words are simpler still. They’re kids. Sometimes that’s enough to let the next sentence come out differently.
+
+# The one habit you keep
+
+## A place in tomorrow
+
+If you and I were talking about all this after work, I’d be curious which bit you remembered without having to look it up. Perhaps it’s the glass of water. Perhaps it’s the egg sandwich. Perhaps you’d forgotten how much you enjoy going outside until you read about somebody running considerably farther than you’d ever care to. That last one counts, too. You’ve noticed something about yourself.
+
+Think about when you could do it tomorrow. Someone who wants a little daylight could decide to go for a short walk after lunch. Putting the lunch things away is a cue they can actually recognize. They could walk around a building they already know, with the shoes they already have, and be back for the afternoon. If you like paper, one line will do.
+
+> When I finish lunch, I’ll go outside for a short walk. I’d like to get some daylight on a day I usually spend indoors.
+
+Read your own line back. Could you tell, at the end of tomorrow, whether you reached that moment? Could you tell whether you did the thing? Would you care about the result? Those questions usually help more than the question of whether you’re a disciplined person.
+
+## When lunch disappears
+
+Let’s give that walk a realistic week. On the first day, lunch ends and the engineer goes outside. They get the daylight they wanted. On the second, a service goes down halfway through lunch. When the incident is handed over, the engineer has another opportunity to take the same walk. It serves the same purpose even though the hour has changed.
+
+Now give them a day when both opportunities pass. They get to the end of the shift and realize they spent the whole day inside. There’s useful information in that. If lunches usually survive, tomorrow’s lunch is still a good place to try again. If lunch has been interrupted on four of the last five shifts, perhaps walking just after handing over the shift has a better chance. Changing the cue is a smaller job than giving up on getting outside.
+
+In one study of habit formation, volunteers chose something to do in the same context each day and reported how automatic it came to feel. People varied considerably. A single missed opportunity made little difference to the process the researchers modeled. I like the modesty of the question that leaves for a person who has missed their walk. When is the next chance? [Lally and colleagues on how habits form](https://doi.org/10.1002/ejsp.674)
+
+## Would I miss it?
+
+After a few chances to try your habit, think about a day when you did it and a day when you didn’t. Our engineer can say whether they got outside and whether it was a part of the day they enjoyed. Someone who chose the pause before pressing Send can look at a reply and see whether it asked the question they needed answered. You get to use a sign that you can recognize and that matters to you.
+
+It’s also a fair answer to say you tried a perfectly sensible idea and didn’t much care for it. That’s something a list of somebody else’s habits can never tell you. If you liked the walk but hated deciding when to take it, change the occasion. If the walk itself was a chore and what you really wanted was a quiet lunch, give yourself an honest answer about that, too.
+
+I’ve spent six years reading, trying things, and finding out which ones I want to come back to. I have a sports watch that can tell me how fast I ran. I have measurements from eight weeks of changing what I ate. And the thing I’d most like to pass to another engineer is still a little movement and a slow breath that makes my upper back feel good. I hope there’s something in here you’ll be just as glad to have in your own day.
+
+## Books I kept thinking about
+
+- James Nestor’s *Breath* gave me somewhere to start when I was feeling lousy and wanted a change I could afford. [Book](https://www.mrjamesnestor.com/breath-book)
+- David Goggins’s *Can’t Hurt Me* got me thinking about the effort I could make from wherever I happened to be. *Never Finished* made me think about what I’d bring to the next attempt. [Both books](https://davidgoggins.com/book/)
+- Scott Carney’s *What Doesn’t Kill Us* helped get me outside and curious about cold showers. [Book](https://www.scottcarney.com/what-doesnt-kill-us/)
+- Kelly McGonigal’s *The Upside of Stress* gave me another question to ask when I felt wound up. What could I use that energy for? [Book](https://www.penguinrandomhouse.com/books/316675/the-upside-of-stress-by-kelly-mcgonigal/9780698170803/)
+- Philipp Dettmer’s *Immune* is the one I read three times. I wanted to understand what goes on inside me when I’m sick or hurt. Sometimes curiosity is an excellent reason to pick up a book. [Book](https://www.penguinrandomhouse.com/books/669586/immune-by-philipp-dettmer/)
+- Leonard Scheff and Susan Edmiston’s *The Cow in the Parking Lot* is the one that comes back to me when I see a cow or feel like shouting at my kids. [Book](https://www.hachettebookgroup.com/titles/susan-edmiston/the-cow-in-the-parking-lot-a-zen-approach-to-overcoming-anger/9780761158158/)
+
+© 2026 Fred Potvin. All rights reserved in the original draft. The research excerpt in chapter 4 is licensed under CC BY 4.0 and credited at the quotation.
