@@ -35,4 +35,4 @@ The builder combines the book’s metadata with the [shared copyright text](../.
 tools/epub-creator/create-epub.sh -o my-book.epub intro.md chapters/first.md chapters/second.md
 ```
 
-The EPUB uses a small stylesheet and the reader’s fonts and colors. Footnote numbers continue across chapters, and each note links back to its reference. Before publishing, open the EPUB in your reader, click through the chapter menu, and run EPUBCheck if available.
+For English books, the title page puts the author and date on one line and displays dates such as `2026-11-25` as “November 25, 2026.” The EPUB uses a small stylesheet and the reader’s fonts and colors. Footnote numbers continue across chapters, and each note links back to its reference. Before publishing, open the EPUB in your reader, click through the chapter menu, and run EPUBCheck if available.

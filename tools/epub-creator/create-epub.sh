@@ -85,6 +85,6 @@ pandoc \
     "${cover_options[@]}" \
     -- "$@"
 
-python3 "$tool_dir/number-footnotes.py" "$work_dir/book.epub" "$work_dir/numbered.epub"
-mv -fT -- "$work_dir/numbered.epub" "$output"
+python3 "$tool_dir/finalize-epub.py" "$work_dir/book.epub" "$work_dir/final.epub"
+mv -fT -- "$work_dir/final.epub" "$output"
 printf '%s\n' "$output"

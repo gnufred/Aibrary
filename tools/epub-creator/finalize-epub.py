@@ -1,10 +1,11 @@
 # SPDX-FileCopyrightText: 2026 Fred Potvin
 # SPDX-License-Identifier: GPL-3.0-only
 
-"""Number Pandoc's EPUB footnotes in reading order across chapter files."""
+"""Format the title byline and number footnotes in Pandoc's EPUB output."""
 
 import posixpath
 import sys
+from datetime import date
 from urllib.parse import unquote
 from xml.dom import Node, minidom
 from xml.etree import ElementTree
@@ -13,6 +14,7 @@ from zipfile import ZipFile
 
 XHTML = "http://www.w3.org/1999/xhtml"
 OPF = "http://www.idpf.org/2007/opf"
+EPUB = "http://www.idpf.org/2007/ops"
 
 
 def reading_order(epub):
@@ -27,6 +29,51 @@ def reading_order(epub):
         if item.attrib["media-type"] == "application/xhtml+xml":
             path = posixpath.join(posixpath.dirname(package_path), unquote(item.attrib["href"]))
             yield posixpath.normpath(path)
+
+
+def format_title_date(element):
+    if len(element.childNodes) != 1 or element.firstChild.nodeType != Node.TEXT_NODE:
+        return
+    try:
+        value = date.fromisoformat(element.firstChild.data)
+    except ValueError:
+        return
+    element.firstChild.data = f"{value:%B} {value.day}, {value.year}"
+
+
+def format_title_byline(document):
+    language = document.documentElement.getAttribute("lang")
+    if language and language.split("-", 1)[0].lower() != "en":
+        return False
+
+    for section in document.getElementsByTagNameNS(XHTML, "section"):
+        if section.getAttributeNS(EPUB, "type") != "titlepage":
+            continue
+        fields = [
+            child for child in section.childNodes
+            if child.nodeType == Node.ELEMENT_NODE
+            and child.localName == "p"
+            and child.getAttribute("class") in {"author", "date"}
+        ]
+        if not fields:
+            return False
+
+        byline = document.createElementNS(XHTML, "p")
+        byline.setAttribute("class", "byline")
+        section.insertBefore(byline, fields[0])
+        for field in fields:
+            if field.getAttribute("class") == "author":
+                separator = ", " if byline.hasChildNodes() else "By "
+            else:
+                format_title_date(field)
+                separator = " · " if byline.hasChildNodes() else ""
+            if separator:
+                byline.appendChild(document.createTextNode(separator))
+            for child in list(field.childNodes):
+                byline.appendChild(child)
+            section.removeChild(field)
+        return True
+    return False
 
 
 def is_footnote_reference(node):
@@ -76,17 +123,19 @@ def number_chapter(document, references, next_number):
         add_note_label(document, note, reference, number)
 
 
-def number_footnotes(source, destination):
+def finalize_epub(source, destination):
     updated_pages = {}
     next_number = 1
     with ZipFile(source) as original:
         for path in reading_order(original):
             with minidom.parseString(original.read(path)) as document:
+                updated = format_title_byline(document)
                 links = document.getElementsByTagNameNS(XHTML, "a")
                 references = [link for link in links if is_footnote_reference(link)]
                 if references:
                     number_chapter(document, references, next_number)
                     next_number += len(references)
+                if updated or references:
                     updated_pages[path] = document.toxml(encoding="UTF-8")
 
         # Preserve entry order and compression, including the uncompressed mimetype first.
@@ -97,4 +146,4 @@ def number_footnotes(source, destination):
 
 
 if __name__ == "__main__":
-    number_footnotes(*sys.argv[1:])
+    finalize_epub(*sys.argv[1:])
