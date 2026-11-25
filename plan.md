@@ -1,6 +1,6 @@
 # The No AI Slop Manifesto
 
-*Working subtitle — How a conference argument became a manifesto about who does the thinking, who does the reviewing, and who owns the result.*
+*Working subtitle — Who Owns the Work?*
 
 ## The book
 
