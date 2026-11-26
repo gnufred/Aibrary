@@ -150,7 +150,7 @@ h2 {
 }
 
 .subtitle, .summary { color: var(--muted); }
-.author { margin-block-start: .45rem; font-weight: 650; }
+.reading-time { margin-block-start: .45rem; font-weight: 650; }
 
 .summary {
   max-width: 43ch;
