@@ -4,9 +4,9 @@
 
 <img src="cover/cover.webp" width="220" alt="The habits I kept by Fred Potvin, with a green cow facing the reader.">
 
-Fred Potvin’s book for fellow IT engineers living through stressful changes at work. It draws on six years of researching and trying habits, with the hope that each reader finds one that makes their life better.
+> The talk of AI takeovers and seeing fellow engineers lose their jobs seriously freaked me out. Breathing and a few habits I’d picked up over the years helped me get myself together. I wrote them down in case they help you too.
 
-Read the [EPUB](the-habits-i-kept.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md). The EPUB was built from the rewritten manuscript at revision `e54c759`.
+Read the [EPUB](the-habits-i-kept.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md).
 
 [Cover files and artwork](cover/README.md)
 

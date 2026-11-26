@@ -7,7 +7,10 @@ date: 2026-11-25
 copyright: '**© 2026 Fred Potvin**'
 rights: 'All rights reserved in the original text.'
 ai-disclosure: 'Written by Fred Potvin with AI assistance for copyediting and references. The cover illustration was generated with ImageGen.'
-description: 'What I learned from six years of trying small, free life hacks. I hope some of them can improve your life as well.'
+description: >-
+  The talk of AI takeovers and seeing fellow engineers lose their jobs seriously
+  freaked me out. Breathing and a few habits I’d picked up over the years helped
+  me get myself together. I wrote them down in case they help you too.
 ---
 
 # Contents {.unnumbered .unlisted}
