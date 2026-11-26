@@ -1,6 +1,6 @@
 ---
 title: The habits I keep
-subtitle: How I keep my s\*\*t together in the darkest hours
+subtitle: How I hold myself together in tough times
 author: Fred Potvin
 lang: en
 date: 2026-11-25
@@ -8,9 +8,9 @@ copyright: '**© 2026 Fred Potvin**'
 rights: 'All rights reserved in the original text.'
 ai-disclosure: 'Written by Fred Potvin with AI assistance for copyediting and references. The cover illustration was generated with ImageGen.'
 description: >-
-  Hearing that AI could take over governments and seeing my fellow IT engineers
-  lose their jobs really freaked me out. Breathing and moving helped me get
-  myself together. Now I want to help you too.
+  I spent six years researching physical and mental health hacks and trying
+  them out myself. In this 10-minute read, I share the ones I still turn to when
+  things get hard. They’re free and easy to try.
 ---
 
 # Contents {.unnumbered .unlisted}
@@ -179,7 +179,7 @@ Fun personal anecdote. My wife’s godmother used to drink alcoholic apple cider
 [^alcohol]: Andrew Huberman, [*What Alcohol Does to Your Body, Brain & Health*](https://www.youtube.com/watch?v=DkS1pkKpILY). For the steps from ethanol to acetaldehyde to acetate, see the US National Institute on Alcohol Abuse and Alcoholism, [*Alcohol Metabolism*](https://www.niaaa.nih.gov/publications/alcohol-metabolism).
 [^water]: Paolo Squatriti, “Water for everyday use,” in *Water and Society in Early Medieval Italy, AD 400–1000*. Squatriti describes communities that drew drinking water from rivers. [Cambridge University Press](https://www.cambridge.org/core/books/abs/water-and-society-in-early-medieval-italy-ad-4001000/water-for-everyday-use/EB0B7ECEE1AC0FE346AEA19D9AB9D2D0).
 
-# References {.unnumbered}
+# References
 
 ## Books
 

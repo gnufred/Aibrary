@@ -1,6 +1,6 @@
 # The habits I keep
 
-*How I keep my s\*\*t together in the darkest hours*
+*How I hold myself together in tough times*
 Fred Potvin
 
 [EPUB cover (JPEG)](cover.jpg) · [Web cover (WebP)](cover.webp)

@@ -1,10 +1,10 @@
 # The habits I keep
 
-*How I keep my s\*\*t together in the darkest hours*
+*How I hold myself together in tough times*
 
 <img src="cover/cover.webp" width="220" alt="The habits I keep by Fred Potvin, with a green cow facing the reader.">
 
-> Hearing that AI could take over governments and seeing my fellow IT engineers lose their jobs really freaked me out. Breathing and moving helped me get myself together. Now I want to help you too.
+> I spent six years researching physical and mental health hacks and trying them out myself. In this 10-minute read, I share the ones I still turn to when things get hard. They’re free and easy to try.
 
 Read the [EPUB](the-habits-i-keep.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md).
 
