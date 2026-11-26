@@ -36,6 +36,14 @@ To create or regenerate a cover, use [$aibrary-05-create-cover](.agents/skills/a
 
 To build an EPUB from the current manuscript, use the [shared EPUB creator](tools/epub-creator/README.md).
 
+To estimate how long a book takes to read, run this command from the repository root with Pandoc installed.
+
+```bash
+tools/estimate-reading-time.sh books/2026-11-25-the-habits-i-keep/05-human-edit/manuscript.md
+```
+
+The tool counts words in Pandoc’s plain-text rendering and rounds the estimate up to whole minutes. Pass multiple Markdown files to estimate the total for a book split into chapters. Use `--wpm 180` before the paths to change the default of 240 words per minute. The default comes from a rounded estimate of adult silent reading speed for English nonfiction. [Reading rate study](https://biblio.ugent.be/publication/8647789).
+
 During a tutorial review, the agent makes and verifies edits directly in the book and records meaningful progress in Git. The finished work includes the Markdown and EPUB, a diff you can inspect, and a summary of the checks that ran.
 
 ## Bash checks
