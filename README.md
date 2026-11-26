@@ -5,15 +5,21 @@ SPDX-License-Identifier: GPL-3.0-only
 
 # Aibrary
 
-Aibrary is a workflow for agents to write, review, and render tutorial books. Each book has an editable Markdown manuscript and an EPUB built from the same source. Both formats have a clickable chapter table of contents.
+## How I author books
+
+Aibrary is where I share my books and how I make them. The books are free to read, and I share the outlines, research notes, drafts, and editorial revisions that go into them. I’m putting it all in the open in case it helps someone writing a book of their own, or anyone curious about how a book comes together.
+
+## Read the books
+
+Each book has a Markdown manuscript, an EPUB, and an index that lets you follow the work from the first outline through research, drafting, and revision. [Browse the books](https://gnufred.github.io/aibrary/).
 
 ## Why I started Aibrary
 
-I love books, and I spent my whole summer trying to figure out how to get AI to write the books I actually wanted to read, the ones that didn’t exist yet.
+I love books. I spent a summer figuring out how to use AI to help me write the books I wanted to read and couldn’t find. I started by turning years of roleplaying notes and manuscript drafts into a fantasy saga. That experience got me thinking about what else I could write, including books to help fellow engineers navigate the age of AI.
 
-I first turned years of roleplaying game notes and manuscript drafts into a full fantasy saga. Now I want to write books that help engineers navigate the age of AI.
+## The skills and tools I use
 
-## Getting started
+I’ve shared the AI agent skills I use to plan a book, research its sources, write the manuscript, and review it. You can see how I use them in the books here and try them on a project of your own. The repository also includes the tools I use to make covers and build EPUBs.
 
 Keep `AGENTS.md` at the root of your book project. Start the agent there and give it a topic or an existing manuscript, along with the scope of the writing or review. [Read the agent instructions](AGENTS.md).
 
