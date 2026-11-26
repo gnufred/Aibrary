@@ -3,11 +3,11 @@ SPDX-FileCopyrightText: 2026 Fred Potvin
 SPDX-License-Identifier: GPL-3.0-only
 -->
 
-# Aibrary
+# Books
 
 ## How I author books
 
-Aibrary is where I share my books and how I make them. The books are free to read, and I share the outlines, research notes, drafts, and editorial revisions that go into them. I’m putting it all in the open in case it helps someone writing a book of their own, or anyone curious about how a book comes together.
+Books is where I share my books and how I make them. The books are free to read, and I share the outlines, research notes, drafts, and editorial revisions that go into them. I’m putting it all in the open in case it helps someone writing a book of their own, or anyone curious about how a book comes together.
 
 ## Read the books
 
@@ -15,7 +15,7 @@ Each book has a Markdown manuscript, an EPUB, and an index that lets you follow 
 
 The GitHub Pages site lives in [`docs/`](docs/). When a published book changes, copy its updated WebP cover and EPUB from `books/` to the matching paths in `docs/books/`.
 
-## Why I started Aibrary
+## Why I started Books
 
 I love books. I spent a summer figuring out how to use AI to help me write the books I wanted to read and couldn’t find. I started by turning years of roleplaying notes and manuscript drafts into a fantasy saga. That experience got me thinking about what else I could write, including books to help fellow engineers navigate the age of AI.
 
@@ -27,14 +27,14 @@ Keep `AGENTS.md` at the root of your book project. Start the agent there and giv
 
 For a new book, use the skills in this order.
 
-1. [$aibrary-01-plan-book](.agents/skills/aibrary-01-plan-book/SKILL.md) defines the audience, learning goals, scope, and chapter order.
-2. [$aibrary-02-research-sources](.agents/skills/aibrary-02-research-sources/SKILL.md) finds evidence, verifies reuse rights, and indexes approved sources.
-3. [$aibrary-03-draft-book](.agents/skills/aibrary-03-draft-book/SKILL.md) writes the Markdown manuscript and verifies its examples.
-4. [$aibrary-04-review-book](.agents/skills/aibrary-04-review-book/SKILL.md) reads the draft with fresh eyes, checks it, and revises it directly.
+1. [$books-01-plan-book](.agents/skills/books-01-plan-book/SKILL.md) defines the audience, learning goals, scope, and chapter order.
+2. [$books-02-research-sources](.agents/skills/books-02-research-sources/SKILL.md) finds evidence, verifies reuse rights, and indexes approved sources.
+3. [$books-03-draft-book](.agents/skills/books-03-draft-book/SKILL.md) writes the Markdown manuscript and verifies its examples.
+4. [$books-04-review-book](.agents/skills/books-04-review-book/SKILL.md) reads the draft with fresh eyes, checks it, and revises it directly.
 
 For an existing manuscript, start with the skill that matches the work.
 
-To create or regenerate a cover, use [$aibrary-05-create-cover](.agents/skills/aibrary-05-create-cover/SKILL.md). It uses the [shared cover creator](tools/cover-creator/README.md) to render the JPEG and WebP from your artwork and book details.
+To create or regenerate a cover, use [$books-05-create-cover](.agents/skills/books-05-create-cover/SKILL.md). It uses the [shared cover creator](tools/cover-creator/README.md) to render the JPEG and WebP from your artwork and book details.
 
 To build an EPUB from the current manuscript, use the [shared EPUB creator](tools/epub-creator/README.md).
 
@@ -60,6 +60,6 @@ Run `shfmt -w tools` to apply the four-space formatting. [Bash coding convention
 
 ## License
 
-The Aibrary workflow files in `README.md`, `AGENTS.md`, and `.agents/skills/` are licensed under the GNU General Public License v3.0 only (`GPL-3.0-only`). [Read the full license](LICENSE).
+The Books workflow files in `README.md`, `AGENTS.md`, and `.agents/skills/` are licensed under the GNU General Public License v3.0 only (`GPL-3.0-only`). [Read the full license](LICENSE).
 
 Each book carries its own copyright and license notice in its Markdown manuscript and EPUB. Third-party material retains its applicable license and attribution terms.

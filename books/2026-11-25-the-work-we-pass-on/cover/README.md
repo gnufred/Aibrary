@@ -2,7 +2,7 @@
 
 [JPEG for EPUB](cover.jpg) · [WebP for the web](cover.webp) · [Source illustration](artwork.png)
 
-Run from the Aibrary repository root to regenerate both covers with the [shared cover creator](../../../tools/cover-creator/README.md).
+Run from the Books repository root to regenerate both covers with the [shared cover creator](../../../tools/cover-creator/README.md).
 
 ```bash
 render_dir=$(mktemp -d)

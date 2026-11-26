@@ -12,11 +12,11 @@ end
 
 function Pandoc(doc)
   local meta = doc.meta
-  local path = pandoc.utils.stringify(meta['aibrary-copyright-file'])
+  local path = pandoc.utils.stringify(meta['books-copyright-file'])
   local file = assert(io.open(path, 'r'))
   local shared = pandoc.read(file:read('*a'), 'markdown').blocks
   file:close()
-  meta['aibrary-copyright-file'] = nil
+  meta['books-copyright-file'] = nil
 
   local front_matter = pandoc.Blocks{}
   for _, block in ipairs(shared) do

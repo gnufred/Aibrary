@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Fred Potvin
+# SPDX-License-Identifier: GPL-3.0-only
+
+interface:
+  display_name: "Books 05 Create Cover"
+  short_description: "Render Books covers with the shared tool"

@@ -65,7 +65,7 @@ command -v python3 > /dev/null || fail 'Python 3 is required.'
 tool_dir=$(CDPATH='' cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)
 
 # Build beside the destination so a failed conversion leaves any previous EPUB intact.
-work_dir=$(mktemp -d -- "$output_dir/.aibrary-epub.XXXXXX")
+work_dir=$(mktemp -d -- "$output_dir/.books-epub.XXXXXX")
 trap 'rm -rf -- "$work_dir"' EXIT
 
 # Pandoc writes reader navigation without --toc, which would add it to the reading order.
@@ -77,7 +77,7 @@ pandoc \
     --toc-depth=1 \
     --syntax-highlighting=none \
     --lua-filter="$tool_dir/copyright.lua" \
-    --metadata="aibrary-copyright-file=$tool_dir/../../books/COPYRIGHT.md" \
+    --metadata="books-copyright-file=$tool_dir/../../books/COPYRIGHT.md" \
     --variable=rights: \
     --css="$tool_dir/book.css" \
     --fail-if-warnings \

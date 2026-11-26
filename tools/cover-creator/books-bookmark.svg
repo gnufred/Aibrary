@@ -1,0 +1,13 @@
+<!--
+SPDX-FileCopyrightText: 2026 Fred Potvin
+SPDX-License-Identifier: GPL-3.0-only
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="96" viewBox="13 4 38 56" role="img" aria-labelledby="bookmark-title">
+  <title id="bookmark-title">Books bookmark B</title>
+  <path fill="#a9dae1" fill-rule="evenodd" d="
+    M19 5h26a5 5 0 0 1 5 5v49l-18-9-18 9V10a5 5 0 0 1 5-5Z
+    M22 15h11c6 0 9.5 2.8 9.5 7.3 0 3-1.5 5.4-4.1 6.5
+    3.4 1 5.4 3.6 5.4 7 0 5.2-3.8 8.2-10.3 8.2H22Z
+    M28 20v6.7h4.4c2.6 0 4-.9 4-3.4 0-2.2-1.4-3.3-4-3.3Z
+    M28 31.5V39h5c2.9 0 4.5-1.2 4.5-3.8 0-2.4-1.6-3.7-4.5-3.7Z"/>
+</svg>

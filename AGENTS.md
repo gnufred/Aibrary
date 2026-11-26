@@ -3,7 +3,7 @@ SPDX-FileCopyrightText: 2026 Fred Potvin
 SPDX-License-Identifier: GPL-3.0-only
 -->
 
-# Aibrary agent instructions
+# Books agent instructions
 
 ## Work by stage
 

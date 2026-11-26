@@ -54,7 +54,7 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
     artwork_y=896
     filters='scale=1600:1440:force_original_aspect_ratio=increase:reset_sar=1'
     filters+=",format=rgb24,crop=1600:1440,pad=1600:2560:0:$artwork_y:color=0x101820"
-    filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=Aibrary:fontsize=84:fontcolor=0xA9DAE1:x=216:y=98'
+    filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=Books:fontsize=84:fontcolor=0xA9DAE1:x=216:y=98'
 
     # Leave room below the imprint and set the title on baselines 1.1 em apart.
     first_baseline=$((270 + (title_size * 74 + 50) / 100))
@@ -84,7 +84,7 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
     filters+=',drawtext=fontfile=fonts/Inter-SemiBold.ttf:textfile=author.txt:expansion=none:fontsize=64:fontcolor=0xF5F3EE:x=112:y=2420:y_align=baseline'
     filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=github.com/gnufred/aibrary:fontsize=48:fontcolor=0xA9C7D0:x=112:y=2484:y_align=baseline'
 
-    ffmpeg -hide_banner -loglevel error -nostdin -i "$artwork" -i "$tool_dir/aibrary-bookmark.svg" \
+    ffmpeg -hide_banner -loglevel error -nostdin -i "$artwork" -i "$tool_dir/books-bookmark.svg" \
         -filter_complex "[0:v:0]${filters}[cover];[cover][1:v:0]overlay=112:84:format=rgb,split[jpeg][web];[web]scale=800:1280[webp]" \
         -map '[jpeg]' -frames:v 1 -c:v mjpeg -q:v 2 -pix_fmt yuvj444p -update 1 cover.jpg \
         -map '[webp]' -frames:v 1 -c:v libwebp -quality 84 -compression_level 6 cover.webp

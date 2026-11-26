@@ -3,7 +3,7 @@ SPDX-FileCopyrightText: 2026 Fred Potvin
 SPDX-License-Identifier: GPL-3.0-only
 -->
 
-# Aibrary EPUB creator
+# Books EPUB creator
 
 `create-epub.sh` builds an EPUB 3 ebook from one Markdown manuscript or several Markdown files supplied in reading order. It uses Bash, GNU coreutils, Pandoc, and the Python standard library (Python 3.9 or newer). The conversion is tested with Pandoc 3.11.
 
