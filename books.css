@@ -26,7 +26,7 @@ body {
 
 h1, h2, p { margin: 0; }
 
-.site-header, .github-star {
+.site-header, .brand, .github-star {
   display: flex;
   align-items: center;
 }
@@ -44,28 +44,35 @@ h1, h2, p { margin: 0; }
 }
 
 .brand {
-  width: clamp(9rem, 20vw, 13.25rem);
+  gap: .75rem;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
 }
 
 .brand img {
   display: block;
-  width: 100%;
+  flex: none;
+  width: clamp(1.75rem, 4vw, 2.4rem);
   height: auto;
 }
 
-.brand h1 a { display: block; }
-.brand h1 a:hover { opacity: .85; }
+.brand h1 {
+  color: var(--accent);
+  font-size: clamp(1.75rem, 4vw, 2.4rem);
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.brand a { color: inherit; text-underline-offset: .18em; }
+.brand h1 a { text-decoration: none; }
+.brand h1 a:hover { text-decoration: underline; }
 
 .byline {
   margin-block-start: .15rem;
-  margin-inline-start: 25%;
   color: var(--muted);
-  font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: .875rem;
   font-weight: 600;
 }
 
-.byline a { color: inherit; text-underline-offset: .18em; }
 .byline a:hover { color: var(--accent); }
 
 .github-star {
