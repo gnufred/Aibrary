@@ -5,163 +5,200 @@ author: Fred Potvin
 lang: en
 date: 2026-11-25
 copyright: '**© 2026 Fred Potvin**'
-rights: 'All rights reserved in the original text. The credited research excerpt carries its own license.'
-ai-disclosure: 'Written and edited with AI assistance using Fred Potvin’s article, firsthand accounts, and cited sources. The cover illustration was generated with ImageGen.'
-description: 'What I learned from six years of life free small life hacks, that I hope can improve your life as well.'
+rights: 'All rights reserved in the original text.'
+ai-disclosure: 'Written by Fred Potvin with AI assistance for copyediting and references. The cover illustration was generated with ImageGen.'
+description: 'What I learned from six years of trying small, free life hacks. I hope some of them can improve your life as well.'
 ---
 
 # Contents {.unnumbered .unlisted}
 
-1. [I care about you](#i-care-about-your)
+1. [I care about you](#i-care-about-you)
 2. [Our breath is our life](#our-breath-is-our-life)
-3. [What I learned about breathing](#what-i-learned-about-breathing)
-4. [The first glass of water](#the-first-glass-of-water)
-5. [Five push-ups and a longer run](#five-push-ups-and-a-longer-run)
-6. [Why I kept walking into the kitchen](#why-i-kept-walking-into-the-kitchen)
-7. [What gets me started on a hard day](#what-gets-me-started-on-a-hard-day)
-8. [What anger was costing me](#what-anger-was-costing-me)
-9. [The one habit you keep](#the-one-habit-you-keep)
+    - [Breath: The New Science of a Lost Art](#breath-the-new-science-of-a-lost-art)
+    - [What Doesn’t Kill Us](#what-doesnt-kill-us)
+    - [Breathing for compassion](#breathing-for-compassion)
+3. [A bit of my life’s history](#a-bit-of-my-lifes-history)
+4. [Squats and push-ups](#squats-and-push-ups)
+5. [Cows and anger](#cows-and-anger)
+6. [Cold showers](#cold-showers)
+7. [Eating habits and food](#eating-habits-and-food)
+8. [Alcohol](#alcohol)
+
+[References](#references)
 
 # I care about you
 
-It's November 2026, and the age of AI is upon us. Unfortunately, the only immediate conscequence I am noticing is suffering. Visual artists and writers are screaming thefts, my fellow IT engineers on Linked are loosing theirs jobs, and Paul Christiano is breaking the news warning that massive human death is upon us.
+It’s November 2026, and the age of AI is upon us. Unfortunately, the only immediate consequence I’m noticing is suffering. Visual artists and writers are crying theft, my fellow IT engineers on LinkedIn are losing their jobs, and I’ve just heard Paul Christiano warn that if AI keeps advancing this fast, a lot of people could die.[^christiano]
 
-Honestly, I am freaking out. For a few days, I really went crazy.
+Honestly, I’m freaking out. For a few days, I really went crazy.
 
-But I got myself togheter again thanks for breathing, and my life's hacks.
+But I got myself together again thanks to breathing and my life hacks.
 
-And because I want to help you, I'm writting those down again.
+And because I want to help you, I’m writing those down again.
 
-I really hope you will find a something in here that help improve your life.
+I really hope you’ll find something in here that helps improve your life.
 
-# Our breath, is our life
+[^christiano]: Paul Christiano in conversation with Dwarkesh Patel, November 16, 2026. In the opening minutes, Christiano explains the risk he sees and how it depends on how fast AI development continues. [The interview I watched](https://www.youtube.com/watch?v=SyHM5hNPAEo) · [Episode transcript](https://www.dwarkesh.com/p/paul-christiano-2).
 
-This is my #1 best life hack: learn to breath deeply, slowly, powerfully. Expand your upper torso, decontract your back muscles, and hold for ten to fifteen second, the release. Do this a few time every day.
+# Our breath is our life
 
-If you've read this far, it was already worth writting this book.
+This is my number one life hack. I breathe deeply, slowly, powerfully. I let my upper chest expand and my back muscles relax. I hold for ten to fifteen seconds, then let the breath out. I do this a few times a day.
 
-But let me elaborate: James Nestor, Wim Hof, Thich Nhat Hanh are who taught me, that breath is life.
+If you’ve read this far, it was already worth writing this book.
+
+But let me elaborate. James Nestor, Wim Hof, and Thich Nhat Hanh are the ones who taught me that breath is life.
 
 ## Breath: The New Science of a Lost Art
 
-[Breath: The New Science of a Lost Art, by James Nestor](https://www.mrjamesnestor.com/breath-book) is what got me started on this quest to find free life hack to become healthy and strong.
+James Nestor’s *Breath: The New Science of a Lost Art* is what got me started on this quest to find free life hacks to get healthy and strong.[^nestor]
 
-His book is absolutely worth your time, but the absolute must keep is: learn to breath through your nose. It lower your stress rates, and help you keep a clear mind.
+His book is absolutely worth your time, but the part I’d keep if I had to pick just one is learning to breathe through my nose. It helps me feel less stressed and keep a clear head.
 
-There's also, much more benefits, and a lot of science now back it up.
+Andrew Huberman talks about breathing during exercise with Andy Galpin, who trains Olympic athletes. Huberman’s episode on breathing, mood, and performance gets into much more detail.[^huberman-breath]
 
-Well known Dr. Humberman talks about this with olyphic athlete trainer Dr. Andy Galpin in [How to Build Physical Endure](https://www.youtube.com/watch?v=oNkDA2F7CjM&t=338s).
+## What Doesn’t Kill Us
 
-[How to Breathe Correctly for Optimal Health, Mood, Learning & Performance - Huberman Lab](https://www.youtube.com/watch?v=x4m_PdFbu-s), gets into much more detail on the topic.
+Wim Hof became my second breathing guru. A guru whose methods scientists have actually studied![^kox]
 
-## What doesn't kill us
+He’s broken Guinness World Records with cold, breath, and sheer determination. At seventeen, he jumped into a cold canal in Amsterdam. Years later, when his wife died by suicide, he was left with four children. He says getting into cold water helped him through his grief.[^hof]
 
-Wim Hof, became my second breath guru. A guru backed up by scientific research!
+He went on to spend much of his life exploring and teaching breathing, cold exposure, and physical mastery.
 
-26 time word guiness record athlete, build on breath, cold, and sheer determination.
+Scott Carney, an investigative journalist who’d set out to debunk fake gurus, decided to check out Wim for himself. He jumped straight into Wim’s training camp in Poland. By the end of the week, Scott was climbing Mount Sněžka in winter, in shorts. He went looking for other people hacking their bodies and wrote *What Doesn’t Kill Us*.[^carney]
 
-A crazy story; jobless hippie father of four, sees her wife kiss him and their child goodbye and jump out the sixth floor window to her death, after going crazy to anti depressant.
+Wim’s guided breathing video is the one I followed. It’s worth knowing that the exercises can make you faint. Do them sitting or lying down, away from water. Never do them in the shower or while driving.[^guided]
 
-One day, he decide to jump straight into a frozen river. His survival instinct kicks in, and he start breathing crazy intensly, which kicks in all sort of chemistry, and he survices.
-
-He then spends the rest of his life exploring and teaching breath, cold, and physical mastery.
-
-Investigative journalist Scott Carney, specialist at debunking fake gurus, decide to debunk Wim Hof and jump straigh into Wim's personnal boot camps. Two week later, Scott climb Mount Sněžka in Poland, in the dead of winter, in shorts, resisting cold with Wim's breathing technique.
-
-Scott then sets on a quest to find all the other sports hacker, and write [What Doesn't Kill Us](https://scottcarney.com/what-doesnt-kill-us/).
-
-Wim's guided breathing technique [YouTube video](https://www.youtube.com/watch?v=0BNejY1e9ik) has 27 million views, to this day. It's totally worth learning.
-
-Practicing it three time a day for a month gave me a massive sport performance gain. After that month I could run tne killometer runs, twenty percent faster.
+I practiced three times a day for a month. By the end of that month, I could run ten kilometers about twenty percent faster. That was a massive gain for me.
 
 ## Breathing for compassion
 
-If starting a new life's quest, and becoming super healthy wasn't enough, I discovered a new breathing master, Thich Nhat Hanh.
+As if starting a new quest to get healthy wasn’t enough, I discovered a new breathing master, Thich Nhat Hanh.
 
-World renown Zen Buddhist Master Thich Nhat Hanh, first lesson is, to breath. I won't get started on him, because I converted from Roman Catholism to Zen Buddhim after reading all of his books, but let me say this; you can learn to compassion through breath.
+The first lesson I took from this world-renowned Zen Buddhist master was to breathe. Don’t get me started on him. I converted from Roman Catholicism to Zen Buddhism after reading all his books. But let me say this much. You can learn compassion through your breath.
 
-I know that religion isn't really a popular topic nowadays so I'll just invite you to check out [his books on the Plum Village website](https://plumvillage.org/about/thich-nhat-hanh/key-books), Breathe, You Are Alive being the book related to breathing and compassion.
+I know religion isn’t a particularly popular topic nowadays, so I’ll just invite you to check out his books on the Plum Village website. *Breathe, You Are Alive* is the one I’d pick for breathing and compassion.[^plum]
 
-# A bit of my life's history
+[^nestor]: James Nestor, *Breath: The New Science of a Lost Art* (Riverhead Books, 2020). [Author’s book page](https://www.mrjamesnestor.com/breath-book).
+[^huberman-breath]: Andrew Huberman and Andy Galpin, *How to Build Physical Endurance & Lose Fat*, Huberman Lab, February 1, 2023. [Interview at 5:38](https://www.youtube.com/watch?v=oNkDA2F7CjM&t=338s). See also Huberman’s [*How to Breathe Correctly for Optimal Health, Mood, Learning & Performance*](https://www.youtube.com/watch?v=x4m_PdFbu-s).
+[^kox]: Matthijs Kox and colleagues, *Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans*, PNAS (2014). Researchers measured the response to an experimental immune challenge after training in breathing, meditation, and cold exposure. [Original study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4034215/).
+[^hof]: Wim Hof on [his first cold swim at seventeen](https://www.theguardian.com/tv-and-radio/2022/apr/03/wim-hof-please-dont-tell-anyone-but-i-hate-the-cold-freeze-the-fear) and on [grief and raising his four children](https://www.guinnessworldrecords.com/news/2024/2/how-ice-swimming-in-freezing-waters-helped-wim-hof-heal-after-wifes-suicide-763853). Guinness World Records lists his cold-exposure feats in its [Hall of Fame](https://www.guinnessworldrecords.com/records/hall-of-fame/Wim-hof-the-iceman).
+[^carney]: Scott Carney, [*The Iceman Cometh*](https://www.scottcarney.com/article/the-iceman-cometh), his firsthand account of the week in Poland, and [*What Doesn’t Kill Us*](https://www.scottcarney.com/what-doesnt-kill-us/). Carney later revisited the risks in [*The Unfortunate Truth About Wim Hof*](https://www.youtube.com/watch?v=T1PKst8cBGs).
+[^guided]: Wim Hof, [*Guided Breathing for Beginners (3 Rounds Slow Pace)*](https://www.youtube.com/watch?v=0BNejY1e9ik). The [method’s safety instructions](https://www.wimhofmethod.com/practice-the-method) apply to this guided exercise.
+[^plum]: Thich Nhat Hanh, *Breathe, You Are Alive*. Plum Village describes the book’s sixteen exercises in conscious breathing. [Book page](https://plumvillage.org/books/breathe-you-are-alive) · [Plum Village’s guide to his books](https://plumvillage.org/about/thich-nhat-hanh/key-books).
+
+# A bit of my life’s history
 
 Let me share how all of this got started for me.
 
-At age 36, I was at the rock bottom. I suffer from insomnia, panic attacks, depression, recurring burnouts, and horrible back pains.
+At age 36, I was at rock bottom. I suffered from insomnia, panic attacks, depression, recurring burnout, and horrible back pain.
 
-That was the result of a life time of bad habits, late night gaming, eating garbage food, drinking way to much alcohol, and expressing pretty much all my feelig through anger.
+I’d spent a lifetime gaming late at night, eating garbage food, drinking way too much alcohol, and expressing pretty much all my feelings through anger.
 
 My wife was pregnant with our second child, three months away from giving birth.
 
-During yet another night of insomnia, I ask myself: what kind of shitty father I will be for my daughter, and my six year old son, if I sustain those habits?
+During yet another night of insomnia, I asked myself, *What kind of shitty father will I be to my daughter and my six-year-old son if I keep this up?*
 
-My wake up call.
+My wake-up call.
 
-So I sat on my bed, and decided that I would change my life. And what does an Internet engineering do when he want to find solutions to problems in the middle of the night? Google Search, which lead me to James Nestor's book.
+So I sat on my bed and decided I would change my life. And what does an internet engineer do when he wants to solve a problem in the middle of the night? A Google search. Which led me to James Nestor’s book.
 
-# Squats, and push-ups
+# Squats and push-ups
 
-If you training daily or weekly, skip this part.
+If you train daily or weekly, skip this part.
 
-Otherwise learn this: daily squats and push-ups will entirely transform your body.
+Otherwise, here’s what daily squats and push-ups did for me.
 
-When I started trainig, I was pretty chubby, and I was pretty damn sad to look at in the mirror. But I needed to figure out how to deal with my horrible back pain that woke me at night. So I started to do ten squats and ten push-ups every day three time, a day. Then a few weeks later, six time a day, the a few weeks later fifteen reps instead of ten.
+When I started training, I was pretty chubby, and I was pretty damn sad to look at in the mirror. But I needed to figure out how to deal with the horrible back pain that woke me at night. So I started doing ten squats and ten push-ups three times a day. A few weeks later, I was doing them six times a day. A few weeks after that, I was doing fifteen reps instead of ten.
 
-Six week later, my back pain, and my panick attack were entirely gone.
+Six weeks in, my back pain and my panic attacks were gone.
 
-Of course the breathing helped, but the squats and push-ups combo.
+I was doing the breathing exercises too, so I couldn’t tell you how much credit to give the squats and push-ups. But I kept the combo.
 
-To this day I'm still doing them every day, and I have visible abs, at 45 years old. That's pretty crazy. I added pull ups and lateral leg movements, but that's it. I train about five minutes a day.
+To this day I’m still doing them every day, and I have visible abs at 45 years old. That’s pretty crazy. I added pull-ups and lateral leg movements, but that’s it. I train about five minutes a day.
 
-# Cows, and anger
+# Cows and anger
 
-I live on farmlands and I see cows everyday, so far it make sense, but they remind me to stay calm. Why? [The Cow in the Parking Lot: A Zen Approach to Overcoming Anger](https://www.goodreads.com/book/show/6950010-the-cow-in-the-parking-lot)
+I live on farmland and I see cows every day. So far, that makes sense. But they remind me to stay calm. Why? *The Cow in the Parking Lot: A Zen Approach to Overcoming Anger*.[^cow]
 
-I used to experience anger as a perpetual background noise, and while it was usually supressed, it got out. There's plenty of science that proves it, and honestly, seems pretty obvious to anyone that angry people aren't fun being around.
+I used to experience anger as a kind of background noise. I usually kept it bottled up, but it got out. And honestly, it seems pretty obvious to me that angry people aren’t much fun to be around.
 
-So again, I picked up a book to find answers. And this one uses the image of a cow, being in it's nature, a cow. And if you experience anger toward the cow, it is pretty much your problem. The cow doesn't really care about your anger. While you are causing yourself tons of problems, the cow is still happilly living its life.
+So again, I picked up a book to find answers. This one uses the image of a cow just doing what’s in its nature. If you get angry at the cow, that’s pretty much your problem. The cow doesn’t really care about your anger. While you’re causing yourself tons of problems, the cow is still happily living its life.
 
-A simple teaching that can translate to many life's situations.
+A simple teaching that applies to a lot of situations in life.
+
+[^cow]: Leonard Scheff and Susan Edmiston, *The Cow in the Parking Lot: A Zen Approach to Overcoming Anger* (Workman, 2010). [Publisher’s book page](https://www.hachettebookgroup.com/titles/susan-edmiston/the-cow-in-the-parking-lot-a-zen-approach-to-overcoming-anger/9780761158158/).
 
 # Cold showers
 
-While learning from Wim Hof's breathing technique, I also learn from cold exposure. Vice magazine even went as far as calling him [The Iceman](https://www.youtube.com/watch?v=VaMjhwFE1Zw).
+While learning Wim Hof’s breathing technique, I also learned about cold exposure. VICE even called him the Iceman.[^vice]
 
-Noaways there is a plotera of scientific evidence that clearly proves the health benefits.
+Cold exposure is usually unpleasant, and it can be dangerous. So let’s pause here. Don’t throw yourself into cold water. The shock can make you gasp underwater and put a sudden strain on your heart. People can drown. Just don’t.[^shock]
 
-Cold expose is super heatlhy, but albiet somewhat dangerous, and usually unpleasant.
+What’s the least painful way I’ve found to do this? Ten seconds of colder water, about 12 °C, after a hot bath or shower. I run the cold water over my whole body twice. That’s it.
 
-So we have to pause here: Don't throw yourself in cold water, you risk a cardiac arrest. Just don't. Some  died doing it.
+I was curious about the health benefits. In one study, people who finished their showers with cold water reported fewer days off work sick. The researchers found no clear difference in the number of days people felt ill. The study didn’t tell me whether my ten seconds would protect my heart.[^showers]
 
-What's the most efficient and least painful way to unlock the most benefit? Ten second of "colder" (about twelve degrees) of cold showering after a hot bath or shower. You just need to shower all your body twice with the cold water. That's it.
+There’s an added bonus for me. I get to practice doing something I find useful even when I don’t feel like it. That’s what stuck with me from Andrew Huberman’s conversation with David Goggins.[^goggins]
 
-Just this basic practice will strenghen your whole cardio vascular system which massively reduce risk of cardio-vascual diseases and improve your overall bloodflow.
+[^vice]: VICE, [*Inside the Superhuman World of the Iceman*](https://www.youtube.com/watch?v=VaMjhwFE1Zw), a documentary about Hof and his training.
+[^shock]: Royal National Lifeboat Institution, [*Cold water shock*](https://rnli.org/water-safety/know-the-risks/cold-water-shock). Sudden immersion can affect breathing, blood pressure, and heart rate.
+[^showers]: Geert A. Buijze and colleagues, *The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial*, PLOS ONE (2016). The study tested cold finishes of 30, 60, and 90 seconds and counted both days off work and days participants felt ill. [Published trial](https://doi.org/10.1371/journal.pone.0161749).
+[^goggins]: David Goggins in conversation with Andrew Huberman, *How to Build Immense Inner Strength*. [Discussion of doing difficult things, starting at 46:14](https://www.youtube.com/watch?v=nDLb8_wgX50&t=2774s).
 
-As an added bonus, doing unpleasant things that you know are useful increase your survival insctinc and your brain health. Reference: [https://www.youtube.com/watch?v=nDLb8_wgX50&t=2774s](https://www.youtube.com/watch?v=nDLb8_wgX50&t=2774s)
+# Eating habits and food
 
-# Eating habits, and food
+Where to start? This topic is just insane to research. There are so many opinions and ads. But after four years, I started to figure out what the heck was going on.
 
-Where to start? This topic is just insane to research on. There's so many opinion, and adverts... but after four years, I started to figure out what the heck is going on.
+The first caveat I’d offer is that when I changed my eating habits, my gut was unhappy, and it let me know. Changing those habits was hard.
 
-The first caveat; When you change your eating habits, your guts will be unhappy and they will let you know. Changing those habits are hard.
+As I worked my way through books, YouTube videos, articles, and blog posts, I realized one very important thing. Everyone’s digestive system is a little different. So be extremely critical of advice about food and eating habits. Try things and give yourself time.
 
-As I research through so many books, YouTube videos, articles, blog posts, I released one very important thing. Everyone's digestive system is unique. So you have to be extremly critical with food and eating habits advice, and you need to try things, and give yourself time.
+Here’s what worked for me.
 
-Here's what worked for me.
+First, I swapped my most sugary meal for one with more protein. Instead of eating sugary yogurt, I ate an egg-and-cheese sandwich.
 
-First, I changed my most suguary meal for protien meal. Instead of eating sugary yogourth I ate an egg cheese swandish.
+Then, in the morning, I switched from sugary cereal to plain organic oats. By the way, I can’t stand Quaker Oats. Believe me, oats can taste good. Just not those.
 
-Then, in the morning I switch the suggary cereals for biological nature oatmeals. By the way, don't choose the Quaker's Oat, they are horrible, believe me, oats can taste good, but not those.
+And I kept simplifying my whole “food stack,” pretty much down to the essentials. Plain organic oats, skyr, apples, cinnamon, eggs, onions, garlic, carrots, lentils, and frozen spinach.
 
-And I just kept simplifying my whole "food stack", pretty much going down to an "essential minimum of"; plain organic oats, skyr, apples, and cinnamon, eggs, onions, garlic, carrots, lentils, and frozen spinach.
+Of course I eat other foods. But if I had to choose ten foods and couldn’t eat anything else, those are the ones I’d choose. They’re all easy to find, they’re cheap, and they’re healthy.
 
-Of course, I eat other foods, but if I would have to choose ten foods and couldn't eat anything else. That's the one I'd choose. They're all available, cheap, and super healthy.
-
-Making those changes massively reduce my grocery bills, time spend cooking, and body fat. Easy wins.
+Making those changes brought my grocery bills way down. I spent less time cooking, and my body fat went down too. Easy wins.
 
 # Alcohol
 
-It’s an absolute poison and you should not drink any at all. That’s it. No caveats, no exceptions, no nothing. Dr. Andrew Humberman explain it clearly (ref: https://www.youtube.com/watch?v=DkS1pkKpILY), alcohol is massively toxic for your body. It's so toxic that it needs to process it three times through a very complex sets of mechanism to eliminate it from your boday.
+It’s an absolute poison, and my take is that you shouldn’t drink any at all. That’s it. No caveats, no exceptions, no nothing. Andrew Huberman explains how the body breaks alcohol down. Your liver turns most of it into acetaldehyde, which is itself toxic, then into acetate, which your body can break down further.[^alcohol]
 
-But you'll ask, if it's so toxic, why does everybody consumes it? My theory is that, throughout human history, most didn't have access to drinkable water, and just one percent of alcohol in a drink destroy a massive amount of harmful bacterias, so we came to use this as a survival strategy. I don't really have any proof here, but pretty much every civizilation before our age of clean water consumned some sort alcoholized drinks regularly.
+But you’ll ask, if it’s so toxic, why do so many people drink it? I’ve wondered whether people sometimes drank fermented drinks because they didn’t trust the local water. I don’t really have proof for my theory. People drank plain water long before modern water treatment, too.[^water]
 
-Fun personnal annectode, my wife's god mother used to drink alcoholized apple cider as a normal beverage before adulthood. You might blame upper France here if you want, but that pretty much sold me on my theory. 
+Fun personal anecdote. My wife’s godmother used to drink alcoholic apple cider as a normal beverage before she was an adult. You can blame northern France for that one if you want, but it pretty much sold me on my theory.
+
+[^alcohol]: Andrew Huberman, [*What Alcohol Does to Your Body, Brain & Health*](https://www.youtube.com/watch?v=DkS1pkKpILY). For the steps from ethanol to acetaldehyde to acetate, see the US National Institute on Alcohol Abuse and Alcoholism, [*Alcohol Metabolism*](https://www.niaaa.nih.gov/publications/alcohol-metabolism).
+[^water]: Paolo Squatriti, “Water for everyday use,” in *Water and Society in Early Medieval Italy, AD 400–1000*. Squatriti describes communities that drew drinking water from rivers. [Cambridge University Press](https://www.cambridge.org/core/books/abs/water-and-society-in-early-medieval-italy-ad-4001000/water-for-everyday-use/EB0B7ECEE1AC0FE346AEA19D9AB9D2D0).
+
+# References {.unnumbered}
+
+## Books
+
+- Scott Carney. *What Doesn’t Kill Us*. Rodale, 2017.
+- James Nestor. *Breath: The New Science of a Lost Art*. Riverhead Books, 2020.
+- Leonard Scheff and Susan Edmiston. *The Cow in the Parking Lot: A Zen Approach to Overcoming Anger*. Workman, 2010.
+- Paolo Squatriti. *Water and Society in Early Medieval Italy, AD 400–1000*. Cambridge University Press.
+- Thich Nhat Hanh. *Breathe, You Are Alive: The Sutra on the Full Awareness of Breathing*. Parallax Press.
+
+## Interviews, recordings, and safety guidance
+
+- Paul Christiano in conversation with Dwarkesh Patel. *We could be 12 months away from AIs that can overthrow the government*. Dwarkesh Podcast, November 16, 2026.
+- Andrew Huberman. *How to Breathe Correctly for Optimal Health, Mood, Learning & Performance* and *What Alcohol Does to Your Body, Brain & Health*. Huberman Lab.
+- Andy Galpin and David Goggins, in separate interviews with Andrew Huberman. *How to Build Physical Endurance & Lose Fat* and *How to Build Immense Inner Strength*, respectively. Huberman Lab.
+- Wim Hof. *Guided Breathing for Beginners (3 Rounds Slow Pace)*. See the safety instructions in the note on the recording.
+- VICE. *Inside the Superhuman World of the Iceman*.
+- Royal National Lifeboat Institution. *Cold water shock*.
+- National Institute on Alcohol Abuse and Alcoholism. *Alcohol Metabolism*.
+
+## Research papers
+
+- Geert A. Buijze and colleagues. “The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial.” *PLOS ONE* 11 (2016), e0161749. DOI 10.1371/journal.pone.0161749.
+- Matthijs Kox and colleagues. “Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans.” *Proceedings of the National Academy of Sciences* 111 (2014), 7379–7384. DOI 10.1073/pnas.1322174111.
+
+© 2026 Fred Potvin. All rights reserved in the original text.

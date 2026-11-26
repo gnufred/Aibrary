@@ -1,12 +1,12 @@
 # The habits I kept
 
-*Applying my hacking mindset to heal myself*
+*How I stay healthy and sane in the darkest hours*
 
 <img src="cover/cover.webp" width="220" alt="The habits I kept by Fred Potvin, with a green cow facing the reader.">
 
 Fred Potvin’s book for fellow IT engineers living through stressful changes at work. It draws on six years of researching and trying habits, with the hope that each reader finds one that makes their life better.
 
-Read the [EPUB](the-habits-i-kept.epub) or the [reviewed Markdown](04-review-book/the-habits-i-kept.md). The Markdown in the review folder is the current editable manuscript.
+Read [Fred’s rewritten manuscript](05-human-edit/manuscript.md). This is the current editable text. The [released EPUB](the-habits-i-kept.epub) and [previous manuscript](04-review-book/the-habits-i-kept.md) are the earlier edition.
 
 [Cover files and artwork](cover/README.md)
 
@@ -17,6 +17,8 @@ Read the [EPUB](the-habits-i-kept.epub) or the [reviewed Markdown](04-review-boo
 | `aibrary-03-draft-book` | [Complete pre-review manuscript](03-draft-book/the-habits-i-kept.md) | Opening chapters `38c1bf8`, middle chapters and Fred’s new firsthand details `58d2c0a`, complete draft `c0e97a3` |
 | `aibrary-04-review-book` | [First read](04-review-book/first-read.md), [reviewed manuscript](04-review-book/the-habits-i-kept.md), [editorial changes and checks](04-review-book/review-diff.md) | Review start `84f5394`, manuscript-only first read `919547b`, edited manuscript `53b4306` |
 
+Fred completed his human rewrite at `02bd78c`.
+
 The `codex/book-health-hacks` worktree started at Aibrary revision `935c059`.
 
-The book reserves rights in Fred’s original text. The cold-shower study excerpt carries its own attribution and CC BY 4.0 license in chapter 4.
+The book reserves rights in Fred’s original text. The earlier edition credits its CC BY 4.0 cold-shower excerpt in chapter 4. The rewrite cites the study in “Cold showers.”

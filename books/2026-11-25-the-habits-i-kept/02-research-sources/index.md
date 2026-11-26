@@ -69,3 +69,11 @@ The two body-fat readings Fred reports, 25% and 19% eight weeks apart, differ by
 | Other research papers, clinical guidance, and utility documents | Reference and original summary. No exact material selected from these items. The links lead to the original report or bibliographic record. Recheck the specific passage or separately credited asset if a later draft needs to reproduce one. |
 
 Fred’s drafting-stage recollections supply the kind of running instrument, the source of his body-fat measurements, and the reminder he uses with his children. The specific instrument used for body fat, comparable running conditions, and the first occasion for the hourly break remain open. [Dated author notes](leads.md)
+
+## Sources added for Fred’s human rewrite, 26 November 2026
+
+The notes in the [human-edited manuscript](../05-human-edit/manuscript.md) give the source titles and links. The new material is cited or paraphrased. No third-party excerpt or image is reproduced in the rewrite.
+
+- **AI and work.** Fred supplied the [Christiano interview](https://www.youtube.com/watch?v=SyHM5hNPAEo). In the [November 16 transcript](https://www.dwarkesh.com/p/paul-christiano-2), Christiano describes a risk of mass deaths conditional on rapid advances in AI.
+- **Breathing.** The Guinness interview supports Hof’s account of widowhood and four children. His account of swimming in cold water at seventeen predates that loss. Carney’s firsthand article places his winter climb at the end of a week of training. Kox and colleagues studied a combined training program and an experimental immune challenge. Plum Village identifies Thich Nhat Hanh’s book and its breathing exercises. The rewrite gives 20% over ten kilometers as Fred’s recollection, superseding 15% in the earlier draft.
+- **Cold showers and alcohol.** The RNLI describes sudden immersion hazards. The Buijze trial counted days of illness and sick leave and did not test Fred’s ten-second routine. The NIAAA describes the ethanol-to-acetaldehyde-to-acetate pathway. Squatriti documents historical drinking-water use in early medieval Italy. Fred identifies the cider anecdote as family history.
