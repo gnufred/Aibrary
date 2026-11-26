@@ -6,7 +6,7 @@
 
 > I spent six years researching physical and mental health hacks and trying them out myself. In this 10-minute read, I share the ones I still turn to when things get hard. They’re free and easy to try.
 
-Read the [EPUB](the-habits-i-keep.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md).
+Read the [EPUB](../get/the-habits-i-keep.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md).
 
 [Cover files and artwork](cover/README.md)
 

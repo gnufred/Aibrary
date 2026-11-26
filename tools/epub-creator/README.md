@@ -16,9 +16,11 @@ tools/epub-creator/create-epub.sh \
 
 Use `-o` to pick a destination in an existing directory and `--cover` to embed a local cover image. Both paths are relative to the directory where you run the command. A successful build replaces an existing EPUB at the destination.
 
+Use `books/get/` for the editions published on the Books page and the personal homepage.
+
 ```bash
 tools/epub-creator/create-epub.sh \
-  -o /tmp/the-work-we-pass-on.epub \
+  -o books/get/the-work-we-pass-on.epub \
   --cover books/the-work-we-pass-on/cover/cover.jpg \
   books/the-work-we-pass-on/04-review-book/the-work-we-pass-on.md
 ```
