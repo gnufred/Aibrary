@@ -14,11 +14,11 @@ The [first-read notes](first-read.md) record what GPT-6.2 Astra noticed while it
 
 - The hourly sequence, meal swaps, and the running and body-fat figures were compared with the article and Fred’s dated notes. Four kilometers in 45 minutes gives 11:15 per kilometer. Twelve in an hour gives 5:00 per kilometer. The 25% and 19% readings differ by six percentage points. The watch’s 15% change refers to a separate one-month period.
 - All eight entries in the rendered Markdown contents were clicked. Each scrolled to the matching chapter heading, once and in outline order. The opening chapter’s shortcut and the research footnote and return link also worked.
-- The [EPUB](../the-habits-i-kept.epub) was built from the [reviewed manuscript](the-habits-i-kept.md) with Pandoc 3.11. Each of its eight chapter entries was clicked through Foliate’s reader engine in an offline browser. For each click, the reader’s current chapter and the visible heading matched the entry. The EPUB reading order, internal link targets, copyright notice, exact research excerpt, authors, DOI, and license link were checked in the package. EPUBCheck 5.4.0 reported zero errors and zero warnings.
+- The EPUB for this review was built from the [reviewed manuscript](the-habits-i-keep.md) with Pandoc 3.11. Each of its eight chapter entries was clicked through Foliate’s reader engine in an offline browser. For each click, the reader’s current chapter and the visible heading matched the entry. The EPUB reading order, internal link targets, copyright notice, exact research excerpt, authors, DOI, and license link were checked in the package. EPUBCheck 5.4.0 reported zero errors and zero warnings.
 
 ## Manuscript diff
 
-The comparison below runs from the [complete manuscript before review](../03-draft-book/the-habits-i-kept.md), present at the review starting revision `84f5394`, to the reviewed text in `53b4306`.
+The comparison below runs from the [complete manuscript before review](../03-draft-book/the-habits-i-keep.md), present at the review starting revision `84f5394`, to the reviewed text in `53b4306`.
 
 ````diff
 diff --git a/books/2026-11-25-health-hacks/03-draft-book/my-health-hacks.md b/books/2026-11-25-health-hacks/04-review-book/my-health-hacks.md

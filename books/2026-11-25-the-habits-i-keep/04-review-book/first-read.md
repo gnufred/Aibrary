@@ -1,6 +1,6 @@
 # First read of *My Health Hacks*
 
-On 25 November 2026, a fresh GPT-6.2 Astra reviewer read an isolated copy of the complete manuscript at `84f5394`. It received the chapters in reading order. These observations were recorded before it saw Fred’s article, the outline, the research index, or the editing brief. Line numbers refer to the [pre-review draft](../03-draft-book/the-habits-i-kept.md).
+On 25 November 2026, a fresh GPT-6.2 Astra reviewer read an isolated copy of the complete manuscript at `84f5394`. It received the chapters in reading order. These observations were recorded before it saw Fred’s article, the outline, the research index, or the editing brief. Line numbers refer to the [pre-review draft](../03-draft-book/the-habits-i-keep.md).
 
 The reviewer inferred a reader who works in IT, has little spare time, and wants one change worth repeating. That reader can follow a conversation about incidents or software builds without having studied sports or medicine.
 

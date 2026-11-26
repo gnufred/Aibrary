@@ -1,5 +1,5 @@
 ---
-title: The habits I kept
+title: The habits I keep
 subtitle: Applying my hacking mindset to heal myself
 author: Fred Potvin
 lang: en

@@ -1,12 +1,12 @@
-# The habits I kept
+# The habits I keep
 
 *How I stay healthy and sane in the darkest hours*
 
-<img src="cover/cover.webp" width="220" alt="The habits I kept by Fred Potvin, with a green cow facing the reader.">
+<img src="cover/cover.webp" width="220" alt="The habits I keep by Fred Potvin, with a green cow facing the reader.">
 
 > The talk of AI takeovers and seeing fellow engineers lose their jobs seriously freaked me out. Breathing and a few habits I’d picked up over the years helped me get myself together. I wrote them down in case they help you too.
 
-Read the [EPUB](the-habits-i-kept.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md).
+Read the [EPUB](the-habits-i-keep.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md).
 
 [Cover files and artwork](cover/README.md)
 
@@ -14,8 +14,8 @@ Read the [EPUB](the-habits-i-kept.epub) or [Fred’s rewritten manuscript](05-hu
 | --- | --- | --- |
 | `aibrary-01-plan-book` | [Book plan and chapter outline](01-plan-book/plan.md) | First plan `11d6603`, accepted outline `723391c` |
 | `aibrary-02-research-sources` | [Source and permissions index](02-research-sources/index.md), [cleared trial excerpt](02-research-sources/sources/buijze-2016-illness-days.md), [author’s notes](02-research-sources/leads.md) | Chapter research and reuse decisions `b43b0ce` |
-| `aibrary-03-draft-book` | [Complete pre-review manuscript](03-draft-book/the-habits-i-kept.md) | Opening chapters `38c1bf8`, middle chapters and Fred’s new firsthand details `58d2c0a`, complete draft `c0e97a3` |
-| `aibrary-04-review-book` | [First read](04-review-book/first-read.md), [reviewed manuscript](04-review-book/the-habits-i-kept.md), [editorial changes and checks](04-review-book/review-diff.md) | Review start `84f5394`, manuscript-only first read `919547b`, edited manuscript `53b4306` |
+| `aibrary-03-draft-book` | [Complete pre-review manuscript](03-draft-book/the-habits-i-keep.md) | Opening chapters `38c1bf8`, middle chapters and Fred’s new firsthand details `58d2c0a`, complete draft `c0e97a3` |
+| `aibrary-04-review-book` | [First read](04-review-book/first-read.md), [reviewed manuscript](04-review-book/the-habits-i-keep.md), [editorial changes and checks](04-review-book/review-diff.md) | Review start `84f5394`, manuscript-only first read `919547b`, edited manuscript `53b4306` |
 
 Fred completed his human rewrite at `02bd78c`.
 

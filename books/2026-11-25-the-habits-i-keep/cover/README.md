@@ -1,4 +1,4 @@
-# The habits I kept
+# The habits I keep
 
 *How I stay healthy and sane in the darkest hours*
 Fred Potvin

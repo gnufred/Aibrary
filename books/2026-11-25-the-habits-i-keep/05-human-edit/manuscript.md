@@ -1,5 +1,5 @@
 ---
-title: The habits I kept
+title: The habits I keep
 subtitle: How I stay healthy and sane in the darkest hours
 author: Fred Potvin
 lang: en
