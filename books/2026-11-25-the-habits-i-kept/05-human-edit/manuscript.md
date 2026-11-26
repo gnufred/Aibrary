@@ -36,7 +36,7 @@ But I got myself together again thanks to breathing and my life hacks.
 
 And because I want to help you, I’m writing those down again.
 
-I really hope you’ll find something in here that helps improve your life.
+I really hope this short book helps you out. If it does, please follow me on [Threads (@fred.pot20)](https://www.threads.com/@fred.pot20) or [give Aibrary a star on GitHub](https://github.com/gnufred/aibrary).
 
 [^christiano]: Paul Christiano in conversation with Dwarkesh Patel, November 16, 2026. In the opening minutes, Christiano explains the risk he sees and how it depends on how fast AI development continues. [The interview I watched](https://www.youtube.com/watch?v=SyHM5hNPAEo) · [Episode transcript](https://www.dwarkesh.com/p/paul-christiano-2).
 
@@ -172,8 +172,6 @@ It’s an absolute poison, and my take is that you shouldn’t drink any at all.
 But you’ll ask, if it’s so toxic, why do so many people drink it? I’ve wondered whether people sometimes drank fermented drinks because they didn’t trust the local water. I don’t really have proof for my theory. People drank plain water long before modern water treatment, too.[^water]
 
 Fun personal anecdote. My wife’s godmother used to drink alcoholic apple cider as a normal beverage before she was an adult. You can blame northern France for that one if you want, but it pretty much sold me on my theory.
-
-I really hope this short book helps you out. If it does, please follow me on [Threads (@fred.pot20)](https://www.threads.com/@fred.pot20) or [give Aibrary a star on GitHub](https://github.com/gnufred/aibrary).
 
 [^alcohol]: Andrew Huberman, [*What Alcohol Does to Your Body, Brain & Health*](https://www.youtube.com/watch?v=DkS1pkKpILY). For the steps from ethanol to acetaldehyde to acetate, see the US National Institute on Alcohol Abuse and Alcoholism, [*Alcohol Metabolism*](https://www.niaaa.nih.gov/publications/alcohol-metabolism).
 [^water]: Paolo Squatriti, “Water for everyday use,” in *Water and Society in Early Medieval Italy, AD 400–1000*. Squatriti describes communities that drew drinking water from rivers. [Cambridge University Press](https://www.cambridge.org/core/books/abs/water-and-society-in-early-medieval-italy-ad-4001000/water-for-everyday-use/EB0B7ECEE1AC0FE346AEA19D9AB9D2D0).
