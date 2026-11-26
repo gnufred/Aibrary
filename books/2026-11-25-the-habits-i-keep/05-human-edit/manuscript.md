@@ -1,6 +1,6 @@
 ---
 title: The habits I keep
-subtitle: How I stay healthy and sane in the darkest hours
+subtitle: How I keep my s\*\*t together in the darkest hours
 author: Fred Potvin
 lang: en
 date: 2026-11-25

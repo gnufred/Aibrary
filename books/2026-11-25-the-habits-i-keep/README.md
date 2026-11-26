@@ -1,6 +1,6 @@
 # The habits I keep
 
-*How I stay healthy and sane in the darkest hours*
+*How I keep my s\*\*t together in the darkest hours*
 
 <img src="cover/cover.webp" width="220" alt="The habits I keep by Fred Potvin, with a green cow facing the reader.">
 
