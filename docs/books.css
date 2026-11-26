@@ -88,15 +88,6 @@ h1, h2, p { margin: 0; }
   white-space: nowrap;
 }
 
-.github-star::before {
-  content: "";
-  flex: none;
-  width: 18px;
-  height: 18px;
-  background: currentColor;
-  mask: url("./assets/github-mark.svg") center / contain no-repeat;
-}
-
 .github-star:hover {
   border-color: var(--accent);
   background: #22333e;
