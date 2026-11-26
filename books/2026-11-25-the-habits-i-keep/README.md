@@ -4,7 +4,7 @@
 
 <img src="cover/cover.webp" width="220" alt="The habits I keep by Fred Potvin, with a green cow facing the reader.">
 
-> The talk of AI takeovers and seeing fellow engineers lose their jobs seriously freaked me out. Breathing and a few habits I’d picked up over the years helped me get myself together. I wrote them down in case they help you too.
+> Hearing that AI could take over governments and seeing my fellow IT engineers lose their jobs really freaked me out. Breathing and moving helped me get myself together. Now I want to help you too.
 
 Read the [EPUB](the-habits-i-keep.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md).
 

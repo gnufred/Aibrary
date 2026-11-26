@@ -8,9 +8,9 @@ copyright: '**© 2026 Fred Potvin**'
 rights: 'All rights reserved in the original text.'
 ai-disclosure: 'Written by Fred Potvin with AI assistance for copyediting and references. The cover illustration was generated with ImageGen.'
 description: >-
-  The talk of AI takeovers and seeing fellow engineers lose their jobs seriously
-  freaked me out. Breathing and a few habits I’d picked up over the years helped
-  me get myself together. I wrote them down in case they help you too.
+  Hearing that AI could take over governments and seeing my fellow IT engineers
+  lose their jobs really freaked me out. Breathing and moving helped me get
+  myself together. Now I want to help you too.
 ---
 
 # Contents {.unnumbered .unlisted}
