@@ -7,7 +7,7 @@ Run from the Books repository root to regenerate both covers with the [shared co
 ```bash
 render_dir=$(mktemp -d)
 tools/cover-creator/create-cover.sh \
-  books/2026-11-25-the-work-we-pass-on/cover/artwork.png \
+  books/the-work-we-pass-on/cover/artwork.png \
   "$render_dir/cover" \
   $'The Work\nWe Pass On' \
   'Fred Potvin' \

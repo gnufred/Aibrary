@@ -41,7 +41,7 @@ To build an EPUB from the current manuscript, use the [shared EPUB creator](tool
 To estimate how long a book takes to read, run this command from the repository root with Pandoc installed.
 
 ```bash
-tools/estimate-reading-time.sh books/2026-11-25-the-habits-i-keep/05-human-edit/manuscript.md
+tools/estimate-reading-time.sh books/the-habits-i-keep/05-human-edit/manuscript.md
 ```
 
 The tool counts words in Pandoc’s plain-text rendering and rounds the estimate up to whole minutes. Pass multiple Markdown files to estimate the total for a book split into chapters. Use `--wpm 180` before the paths to change the default of 240 words per minute. The default comes from a rounded estimate of adult silent reading speed for English nonfiction. [Reading rate study](https://biblio.ugent.be/publication/8647789).

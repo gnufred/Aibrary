@@ -9,7 +9,7 @@ SPDX-License-Identifier: GPL-3.0-only
 
 Use the skill that matches the requested stage. Planning delivers the plan. Research delivers the source index and any material cleared for reuse. Drafting and editorial review deliver the Markdown and the checks performed at that stage. Build the EPUB for the finished book after editorial review, or earlier if the user asks for an EPUB.
 
-Keep each book's materials together under `books/YYYY-MM-DD-<slug>/` in this repository. Follow the book's established layout. When starting a book here, use stage folders named for the four skills and a book index that links to the plan, research, draft, and review. Preserve the complete pre-review draft and the accepted review diff. Identify the current editable manuscript in the index and record the Git milestones. Use a dedicated worktree when book work needs isolation from parallel changes.
+Keep each book's materials together under `books/<title-slug>/` in this repository. Follow the book's established layout. When starting a book here, use stage folders named for the four skills and a book index that links to the plan, research, draft, and review. Preserve the complete pre-review draft and the accepted review diff. Identify the current editable manuscript in the index and record the Git milestones. Use a dedicated worktree when book work needs isolation from parallel changes.
 
 ## Source research
 
