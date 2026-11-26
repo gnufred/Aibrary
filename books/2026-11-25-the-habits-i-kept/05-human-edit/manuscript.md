@@ -112,16 +112,56 @@ Of course the breathing helped, but the squats and push-ups combo.
 
 To this day I'm still doing them every day, and I have visible abs, at 45 years old. That's pretty crazy. I added pull ups and lateral leg movements, but that's it. I train about five minutes a day.
 
-# Cows
+# Cows, and anger
 
+I live on farmlands and I see cows everyday, so far it make sense, but they remind me to stay calm. Why? [The Cow in the Parking Lot: A Zen Approach to Overcoming Anger](https://www.goodreads.com/book/show/6950010-the-cow-in-the-parking-lot)
 
+I used to experience anger as a perpetual background noise, and while it was usually supressed, it got out. There's plenty of science that proves it, and honestly, seems pretty obvious to anyone that angry people aren't fun being around.
+
+So again, I picked up a book to find answers. And this one uses the image of a cow, being in it's nature, a cow. And if you experience anger toward the cow, it is pretty much your problem. The cow doesn't really care about your anger. While you are causing yourself tons of problems, the cow is still happilly living its life.
+
+A simple teaching that can translate to many life's situations.
 
 # Cold showers
 
-Another life hack I came to "appreciate". It's super healthy. There's so much science to back that up that it's not even worth mentioning any here to be honest.
+While learning from Wim Hof's breathing technique, I also learn from cold exposure. Vice magazine even went as far as calling him [The Iceman](https://www.youtube.com/watch?v=VaMjhwFE1Zw).
 
-Those aren't fun, I really hate them. But ten second after your hot shower or bath is all you need for massive health gain.
+Noaways there is a plotera of scientific evidence that clearly proves the health benefits.
 
-It's definitely worth considering them.
+Cold expose is super heatlhy, but albiet somewhat dangerous, and usually unpleasant.
 
-© 2026 Fred Potvin. All rights reserved in the original text. The research excerpt in chapter 4 is licensed under CC BY 4.0 and credited at the quotation.
+So we have to pause here: Don't throw yourself in cold water, you risk a cardiac arrest. Just don't. Some  died doing it.
+
+What's the most efficient and least painful way to unlock the most benefit? Ten second of "colder" (about twelve degrees) of cold showering after a hot bath or shower. You just need to shower all your body twice with the cold water. That's it.
+
+Just this basic practice will strenghen your whole cardio vascular system which massively reduce risk of cardio-vascual diseases and improve your overall bloodflow.
+
+As an added bonus, doing unpleasant things that you know are useful increase your survival insctinc and your brain health. Reference: [https://www.youtube.com/watch?v=nDLb8_wgX50&t=2774s](https://www.youtube.com/watch?v=nDLb8_wgX50&t=2774s)
+
+# Eating habits, and food
+
+Where to start? This topic is just insane to research on. There's so many opinion, and adverts... but after four years, I started to figure out what the heck is going on.
+
+The first caveat; When you change your eating habits, your guts will be unhappy and they will let you know. Changing those habits are hard.
+
+As I research through so many books, YouTube videos, articles, blog posts, I released one very important thing. Everyone's digestive system is unique. So you have to be extremly critical with food and eating habits advice, and you need to try things, and give yourself time.
+
+Here's what worked for me.
+
+First, I changed my most suguary meal for protien meal. Instead of eating sugary yogourth I ate an egg cheese swandish.
+
+Then, in the morning I switch the suggary cereals for biological nature oatmeals. By the way, don't choose the Quaker's Oat, they are horrible, believe me, oats can taste good, but not those.
+
+And I just kept simplifying my whole "food stack", pretty much going down to an "essential minimum of"; plain organic oats, skyr, apples, and cinnamon, eggs, onions, garlic, carrots, lentils, and frozen spinach.
+
+Of course, I eat other foods, but if I would have to choose ten foods and couldn't eat anything else. That's the one I'd choose. They're all available, cheap, and super healthy.
+
+Making those changes massively reduce my grocery bills, time spend cooking, and body fat. Easy wins.
+
+# Alcohol
+
+It’s an absolute poison and you should not drink any at all. That’s it. No caveats, no exceptions, no nothing. Dr. Andrew Humberman explain it clearly (ref: https://www.youtube.com/watch?v=DkS1pkKpILY), alcohol is massively toxic for your body. It's so toxic that it needs to process it three times through a very complex sets of mechanism to eliminate it from your boday.
+
+But you'll ask, if it's so toxic, why does everybody consumes it? My theory is that, throughout human history, most didn't have access to drinkable water, and just one percent of alcohol in a drink destroy a massive amount of harmful bacterias, so we came to use this as a survival strategy. I don't really have any proof here, but pretty much every civizilation before our age of clean water consumned some sort alcoholized drinks regularly.
+
+Fun personnal annectode, my wife's god mother used to drink alcoholized apple cider as a normal beverage before adulthood. You might blame upper France here if you want, but that pretty much sold me on my theory. 
