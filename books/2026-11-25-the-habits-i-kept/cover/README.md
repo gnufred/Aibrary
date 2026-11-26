@@ -1,6 +1,6 @@
 # The habits I kept
 
-*Applying my hacking mindset to heal myself*
+*How I stay healthy and sane in the darkest hours*
 Fred Potvin
 
 [EPUB cover (JPEG)](cover.jpg) · [Web cover (WebP)](cover.webp)

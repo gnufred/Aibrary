@@ -6,7 +6,7 @@
 
 Fred Potvin’s book for fellow IT engineers living through stressful changes at work. It draws on six years of researching and trying habits, with the hope that each reader finds one that makes their life better.
 
-Read [Fred’s rewritten manuscript](05-human-edit/manuscript.md). This is the current editable text. The [released EPUB](the-habits-i-kept.epub) and [previous manuscript](04-review-book/the-habits-i-kept.md) are the earlier edition.
+Read the [EPUB](the-habits-i-kept.epub) or [Fred’s rewritten manuscript](05-human-edit/manuscript.md). The EPUB was built from the rewritten manuscript at revision `e54c759`.
 
 [Cover files and artwork](cover/README.md)
 
