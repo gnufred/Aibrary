@@ -39,7 +39,7 @@ But I got myself together again thanks to breathing and my life hacks.
 
 And because I want to help you, I’m writing those down again.
 
-I really hope this short book helps you out. If it does, please follow me on [Threads (@fred.pot20)](https://www.threads.com/@fred.pot20) or [give Books a star on GitHub](https://github.com/gnufred/aibrary).
+I really hope this short book helps you out. If it does, please follow me on [Threads (@fred.pot20)](https://www.threads.com/@fred.pot20) or [give Books a star on GitHub](https://github.com/gnufred/books).
 
 [^christiano]: Paul Christiano in conversation with Dwarkesh Patel, November 16, 2026. In the opening minutes, Christiano explains the risk he sees and how it depends on how fast AI development continues. [The interview I watched](https://www.youtube.com/watch?v=SyHM5hNPAEo) · [Episode transcript](https://www.dwarkesh.com/p/paul-christiano-2).
 
