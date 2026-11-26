@@ -144,7 +144,7 @@ a:focus-visible {
 
 .cover {
   display: block;
-  width: clamp(7.25rem, 12vw, 10rem);
+  width: clamp(12.7rem, 21vw, 17.5rem);
   max-width: 100%;
   height: auto;
 }
