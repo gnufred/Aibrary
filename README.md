@@ -13,7 +13,7 @@ Books is where I share my books and how I make them. The books are free to read,
 
 Each book has a Markdown manuscript, an EPUB, and an index that lets you follow the work from the first outline through research, drafting, and revision. [Browse the books](https://gnufred.dev/books).
 
-The GitHub Pages site lives in [`docs/`](docs/). When a published book changes, copy its updated WebP cover and EPUB from `books/` to the matching paths in `docs/books/`.
+The GitHub Pages site lives in [`docs/`](docs/). When a cover changes, copy its WebP to `docs/books/<book-name>/cover/cover.webp`. The download buttons use the EPUBs directly from `books/<book-name>/` on the `main` branch via `raw.githubusercontent.com`.
 
 ## Why I started Books
 
