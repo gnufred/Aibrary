@@ -1,0 +1,24 @@
+# SPDX-FileCopyrightText: 2026 Fred Potvin
+# SPDX-License-Identifier: GPL-3.0-only
+
+name: Bash checks
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  bash-checks:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Run ShellCheck and shfmt
+        run: |
+          docker run --rm \
+            --volume "$GITHUB_WORKSPACE:/workspace:ro" \
+            --workdir /workspace \
+            alpine:3.23 \
+            sh -ec 'apk add --no-cache bash shellcheck shfmt && ./tools/check-bash.sh'

@@ -50,7 +50,7 @@ During a tutorial review, the agent makes and verifies edits directly in the boo
 
 ## Bash checks
 
-GitLab runs `tools/check-bash.sh` on every push. The script checks all shell scripts under `tools/`, including itself. Run the same command locally with ShellCheck 0.11.0 and shfmt 3.11.0 or newer installed.
+GitHub Actions runs `tools/check-bash.sh` on pushes and pull requests. The script checks all shell scripts under `tools/`, including itself. Run the same command locally with ShellCheck 0.11.0 and shfmt 3.11.0 or newer installed.
 
 ```bash
 ./tools/check-bash.sh
