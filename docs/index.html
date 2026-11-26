@@ -6,6 +6,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f7faf2" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1b2921" media="(prefers-color-scheme: dark)">
   <meta name="description" content="Books by Fred about software, AI, and the habits he kept.">
   <title>Books by Fred</title>
   <link rel="icon" type="image/svg+xml" sizes="any" href="./assets/books-bookmark.svg">
@@ -13,40 +15,54 @@
 </head>
 <body>
   <header class="site-header">
-    <div class="brand">
-      <img src="./assets/books-bookmark.svg" width="38" height="56" alt="">
-      <div>
-        <h1><a href="https://github.com/gnufred/books">Books</a></h1>
-        <p class="byline">by <a href="https://github.com/gnufred">Fred</a></p>
+    <div class="wrap site-bar">
+      <div class="brand">
+        <div>
+          <h1><a href="https://github.com/gnufred/books">Books</a></h1>
+          <p class="byline">by <a href="https://github.com/gnufred">Fred</a></p>
+        </div>
       </div>
-    </div>
 
-    <a class="github-star" href="https://github.com/gnufred/books">
-      <img src="./assets/github-mark.svg" width="18" height="18" alt="">
-      Star on GitHub
-    </a>
+      <a class="github-star" href="https://github.com/gnufred/books">Star on GitHub</a>
+    </div>
   </header>
 
-  <main class="books">
-    <article class="habits">
-      <img class="cover" src="./books/the-habits-i-keep/cover/cover.webp" width="800" height="1280" alt="">
-      <p class="category">Health and habits</p>
-      <h2>The habits I keep</h2>
-      <p class="subtitle">How I hold myself together in tough times</p>
-      <p class="reading-time"><time datetime="PT10M">10 minutes</time> to read</p>
-      <p class="summary">I spent six years researching physical and mental health hacks and trying them out myself. In this 10-minute read, I share the ones I still turn to when things get hard. They’re free and easy to try.</p>
-      <a class="download" href="./books/the-habits-i-keep/the-habits-i-keep.epub" download aria-label="Download EPUB for The habits I keep">Download EPUB</a>
-    </article>
+  <main class="books-band">
+    <div class="wrap books">
+      <article class="book" aria-labelledby="habits-title">
+        <div class="book-art">
+          <img class="cover" src="./books/the-habits-i-keep/cover/cover.webp" width="800" height="1280" alt="">
+        </div>
+        <div class="book-copy">
+          <p class="book-meta">
+            <span class="category">Health and habits</span>
+            <span aria-hidden="true">·</span>
+            <span><time datetime="PT10M">10 minutes</time> to read</span>
+          </p>
+          <h2 id="habits-title">The habits I keep</h2>
+          <p class="subtitle">How I hold myself together in tough times</p>
+          <p class="summary">I spent six years researching physical and mental health hacks and trying them out myself. In this 10-minute read, I share the ones I still turn to when things get hard. They’re free and easy to try.</p>
+          <a class="download" href="./books/the-habits-i-keep/the-habits-i-keep.epub" download aria-label="Download EPUB for The habits I keep">Download EPUB</a>
+        </div>
+      </article>
 
-    <article class="work">
-      <img class="cover" src="./books/the-work-we-pass-on/cover/cover.webp" width="800" height="1280" alt="">
-      <p class="category">AI and software</p>
-      <h2>The Work We Pass On</h2>
-      <p class="subtitle">Lessons from the No AI Slop Manifesto</p>
-      <p class="reading-time"><time datetime="PT35M">35 minutes</time> to read</p>
-      <p class="summary">How the No AI Slop Manifesto came together, and what its authors and fellow practitioners ask of people who use AI to write and build.</p>
-      <a class="download" href="./books/the-work-we-pass-on/the-work-we-pass-on.epub" download aria-label="Download EPUB for The Work We Pass On">Download EPUB</a>
-    </article>
+      <article class="book" aria-labelledby="work-title">
+        <div class="book-art book-art--blue">
+          <img class="cover" src="./books/the-work-we-pass-on/cover/cover.webp" width="800" height="1280" alt="">
+        </div>
+        <div class="book-copy">
+          <p class="book-meta">
+            <span class="category">AI and software</span>
+            <span aria-hidden="true">·</span>
+            <span><time datetime="PT35M">35 minutes</time> to read</span>
+          </p>
+          <h2 id="work-title">The Work We Pass On</h2>
+          <p class="subtitle">Lessons from the No AI Slop Manifesto</p>
+          <p class="summary">How the No AI Slop Manifesto came together, and what its authors and fellow practitioners ask of people who use AI to write and build.</p>
+          <a class="download" href="./books/the-work-we-pass-on/the-work-we-pass-on.epub" download aria-label="Download EPUB for The Work We Pass On">Download EPUB</a>
+        </div>
+      </article>
+    </div>
   </main>
 </body>
 </html>
