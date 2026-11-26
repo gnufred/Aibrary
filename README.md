@@ -13,6 +13,8 @@ Aibrary is where I share my books and how I make them. The books are free to rea
 
 Each book has a Markdown manuscript, an EPUB, and an index that lets you follow the work from the first outline through research, drafting, and revision. [Browse the books](https://gnufred.github.io/aibrary/).
 
+The GitHub Pages site lives in [`docs/`](docs/). When a published book changes, copy its updated WebP cover and EPUB from `books/` to the matching paths in `docs/books/`.
+
 ## Why I started Aibrary
 
 I love books. I spent a summer figuring out how to use AI to help me write the books I wanted to read and couldn’t find. I started by turning years of roleplaying notes and manuscript drafts into a fantasy saga. That experience got me thinking about what else I could write, including books to help fellow engineers navigate the age of AI.
