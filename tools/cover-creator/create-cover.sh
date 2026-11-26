@@ -13,12 +13,11 @@ artwork=$1
 [[ $artwork = /* ]] || artwork=$PWD/$artwork
 output_dir=$2
 title=$3
-author=$4
 subtitle=${5-}
 title_size=${COVER_TITLE_SIZE:-160}
 tool_dir=$(CDPATH='' cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd -P)
 
-if [[ ! -f $artwork || -z $title || -z $author ]]; then
+if [[ ! -f $artwork || -z $title || -z $4 ]]; then
     printf 'Supply a local artwork file, a title, and an author.\n' >&2
     exit 2
 fi
@@ -46,15 +45,14 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
     CDPATH='' cd -- "$work_dir"
     # Keep user text and paths outside FFmpeg's filter syntax.
     ln -s -- "$tool_dir/fonts" fonts
-    # Keep the author on one line above the repository URL.
-    author_line=${author//$'\r\n'/$'\n'}
-    printf '%s' "${author_line//[$'\r\n']/ }" > author.txt
 
     # The padded background forms both the title panel and the footer.
     artwork_y=896
-    filters='scale=1600:1440:force_original_aspect_ratio=increase:reset_sar=1'
-    filters+=",format=rgb24,crop=1600:1440,pad=1600:2560:0:$artwork_y:color=0x101820"
-    filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=Books:fontsize=84:fontcolor=0xA9DAE1:x=216:y=98'
+    artwork_height=1440
+    footer_top=$((artwork_y + artwork_height))
+    filters="scale=1600:$artwork_height:force_original_aspect_ratio=increase:reset_sar=1"
+    filters+=",format=rgb24,crop=1600:$artwork_height,pad=1600:2560:0:$artwork_y:color=0x101820"
+    filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=Books by Fred:fontsize=84:fontcolor=0xA9DAE1:x=216:y=98'
 
     # Leave room below the imprint and set the title on baselines 1.1 em apart.
     first_baseline=$((270 + (title_size * 74 + 50) / 100))
@@ -81,8 +79,7 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
         printf 'The title and subtitle exceed the title panel. Lower COVER_TITLE_SIZE or use fewer lines.\n' >&2
         exit 2
     fi
-    filters+=',drawtext=fontfile=fonts/Inter-SemiBold.ttf:textfile=author.txt:expansion=none:fontsize=64:fontcolor=0xF5F3EE:x=112:y=2420:y_align=baseline'
-    filters+=',drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=github.com/gnufred/books:fontsize=48:fontcolor=0xA9C7D0:x=112:y=2484:y_align=baseline'
+    filters+=",drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=github.com/gnufred/books:fontsize=48:fontcolor=0xA9C7D0:x=(w-text_w)/2:y=(h+$footer_top-text_h)/2"
 
     ffmpeg -hide_banner -loglevel error -nostdin -i "$artwork" -i "$tool_dir/books-bookmark.svg" \
         -filter_complex "[0:v:0]${filters}[cover];[cover][1:v:0]overlay=112:84:format=rgb,split[jpeg][web];[web]scale=800:1280[webp]" \
