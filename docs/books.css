@@ -118,7 +118,7 @@ a:focus-visible {
   padding: clamp(1.5rem, 4vw, 3.4rem) clamp(1rem, 4vw, 2.5rem);
   background: var(--panel);
   color: var(--panel-ink);
-  text-align: center;
+  text-align: start;
 }
 
 .habits {
@@ -164,7 +164,7 @@ h2 {
 
 .summary {
   max-width: 43ch;
-  margin: .75rem auto 0;
+  margin-block-start: .75rem;
 }
 
 .download {
