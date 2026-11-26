@@ -24,7 +24,7 @@ Use near-square illustration source art. FFmpeg scales it to fill the 1600 × 14
 
 Title baselines are spaced at 1.1 times the title size. The subtitle follows the final title line. Use explicit line breaks and inspect the result at thumbnail size. For a three-line title with a two-line subtitle, try `COVER_TITLE_SIZE=128`. The default is 160 and the accepted range is 104–160. If the text block is too tall for the panel, lower the title size or use fewer lines. Subtitle line breaks also use literal newlines, and line fitting is manual.
 
-The footer centers `github.com/gnufred/books` horizontally and vertically in 48 px IBM Plex Mono.
+The footer centers `github.com/gnufred/books` horizontally and vertically in 72 px IBM Plex Mono.
 
 ## Fonts
 

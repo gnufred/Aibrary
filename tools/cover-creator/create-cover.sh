@@ -79,7 +79,7 @@ work_dir=$(mktemp -d "$output_dir/.cover.XXXXXX")
         printf 'The title and subtitle exceed the title panel. Lower COVER_TITLE_SIZE or use fewer lines.\n' >&2
         exit 2
     fi
-    filters+=",drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=github.com/gnufred/books:fontsize=48:fontcolor=0xA9C7D0:x=(w-text_w)/2:y=(h+$footer_top-text_h)/2"
+    filters+=",drawtext=fontfile=fonts/IBMPlexMono-SemiBold.ttf:text=github.com/gnufred/books:fontsize=72:fontcolor=0xA9C7D0:x=(w-text_w)/2:y=(h+$footer_top-text_h)/2"
 
     ffmpeg -hide_banner -loglevel error -nostdin -i "$artwork" -i "$tool_dir/books-bookmark.svg" \
         -filter_complex "[0:v:0]${filters}[cover];[cover][1:v:0]overlay=112:84:format=rgb,split[jpeg][web];[web]scale=800:1280[webp]" \
